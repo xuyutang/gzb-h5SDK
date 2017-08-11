@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/winetone/!svn/ver/26979/thirdparty/ios_lite_library/Categories
+END
+UIImageView+Category.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/17294/thirdparty/ios_lite_library/Categories/UIImageView+Category.m
+END
+UIImage+Category.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/17294/thirdparty/ios_lite_library/Categories/UIImage+Category.h
+END
+NSDate+Util.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/15098/thirdparty/ios_lite_library/Categories/NSDate+Util.m
+END
+UIImage+Category.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/17294/thirdparty/ios_lite_library/Categories/UIImage+Category.m
+END
+NSBundle+JSLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/9177/thirdparty/ios_lite_library/Categories/NSBundle+JSLite.h
+END
+UIImage+RemoteSize.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/8354/thirdparty/ios_lite_library/Categories/UIImage+RemoteSize.h
+END
+NSBundle+JSLite.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/9177/thirdparty/ios_lite_library/Categories/NSBundle+JSLite.m
+END
+NSString+Helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/9143/thirdparty/ios_lite_library/Categories/NSString+Helpers.h
+END
+UIImage+JSLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/16894/thirdparty/ios_lite_library/Categories/UIImage+JSLite.h
+END
+UIDevice+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/8843/thirdparty/ios_lite_library/Categories/UIDevice+Util.h
+END
+UIImage+RemoteSize.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/8354/thirdparty/ios_lite_library/Categories/UIImage+RemoteSize.m
+END
+UIImage+WaterMark.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/17294/thirdparty/ios_lite_library/Categories/UIImage+WaterMark.h
+END
+NSString+Helpers.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/21077/thirdparty/ios_lite_library/Categories/NSString+Helpers.m
+END
+UIImage+JSLite.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/16894/thirdparty/ios_lite_library/Categories/UIImage+JSLite.m
+END
+UIDevice+Util.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/26979/thirdparty/ios_lite_library/Categories/UIDevice+Util.m
+END
+NSData+AES.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/winetone/!svn/ver/18791/thirdparty/ios_lite_library/Categories/NSData+AES.h
+END
+UIImage+WaterMark.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/17294/thirdparty/ios_lite_library/Categories/UIImage+WaterMark.m
+END
+NSString+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/19056/thirdparty/ios_lite_library/Categories/NSString+Util.h
+END
+UIView+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/19005/thirdparty/ios_lite_library/Categories/UIView+Util.h
+END
+UIColor+RGB.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/winetone/!svn/ver/8387/thirdparty/ios_lite_library/Categories/UIColor+RGB.h
+END
+NSData+AES.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/winetone/!svn/ver/18791/thirdparty/ios_lite_library/Categories/NSData+AES.m
+END
+UIImageView+Category.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/17294/thirdparty/ios_lite_library/Categories/UIImageView+Category.h
+END
+NSString+Util.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/19056/thirdparty/ios_lite_library/Categories/NSString+Util.m
+END
+UIView+Util.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/19005/thirdparty/ios_lite_library/Categories/UIView+Util.m
+END
+UIColor+RGB.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/winetone/!svn/ver/8387/thirdparty/ios_lite_library/Categories/UIColor+RGB.m
+END
+NSDate+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/15098/thirdparty/ios_lite_library/Categories/NSDate+Util.h
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/winetone/!svn/ver/27168/thirdparty/ios_lite_library/Helper
+END
+MQTTClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/19808/thirdparty/ios_lite_library/Helper/MQTTClient.m
+END
+LocalManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/winetone/!svn/ver/26767/thirdparty/ios_lite_library/Helper/LocalManager.m
+END
+SMWebSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/winetone/!svn/ver/18789/thirdparty/ios_lite_library/Helper/SMWebSocket.m
+END
+UpdateVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/winetone/!svn/ver/26732/thirdparty/ios_lite_library/Helper/UpdateVersion.m
+END
+GPSCoordinateHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/12419/thirdparty/ios_lite_library/Helper/GPSCoordinateHelper.h
+END
+HintHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/winetone/!svn/ver/9177/thirdparty/ios_lite_library/Helper/HintHelper.h
+END
+GPSCoordinateHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/12419/thirdparty/ios_lite_library/Helper/GPSCoordinateHelper.m
+END
+RequestAgent.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/winetone/!svn/ver/23181/thirdparty/ios_lite_library/Helper/RequestAgent.h
+END
+HintHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/winetone/!svn/ver/9177/thirdparty/ios_lite_library/Helper/HintHelper.m
+END
+CookieHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/winetone/!svn/ver/20140/thirdparty/ios_lite_library/Helper/CookieHelper.h
+END
+RequestAgent.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/winetone/!svn/ver/26800/thirdparty/ios_lite_library/Helper/RequestAgent.m
+END
+CookieHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/winetone/!svn/ver/27168/thirdparty/ios_lite_library/Helper/CookieHelper.m
+END
+FileHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/19513/thirdparty/ios_lite_library/Helper/FileHelper.h
+END
+MQTTClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/19808/thirdparty/ios_lite_library/Helper/MQTTClient.h
+END
+FileHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/19513/thirdparty/ios_lite_library/Helper/FileHelper.m
+END
+LocalManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/winetone/!svn/ver/26749/thirdparty/ios_lite_library/Helper/LocalManager.h
+END
+SMWebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/winetone/!svn/ver/18789/thirdparty/ios_lite_library/Helper/SMWebSocket.h
+END
+UpdateVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/winetone/!svn/ver/10831/thirdparty/ios_lite_library/Helper/UpdateVersion.h
+END

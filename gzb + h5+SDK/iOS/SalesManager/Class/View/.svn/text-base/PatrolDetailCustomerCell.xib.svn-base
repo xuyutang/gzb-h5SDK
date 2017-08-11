@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="60" id="KGk-i7-Jjw" customClass="PatrolDetailCustomerCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="59"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="安徽省合肥市天智路源创动漫园 安徽省合肥市天智路源创动漫园" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PJ8-35-XHi">
+                        <rect key="frame" x="8" y="-1" width="304" height="46"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="业务拜访" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2Kc-fs-VcY">
+                        <rect key="frame" x="8" y="39" width="71" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="徐芝荣" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ybk-ru-a38">
+                        <rect key="frame" x="129" y="39" width="71" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="2015-02-02:18:00" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CXs-Tu-x5O">
+                        <rect key="frame" x="208" y="39" width="108" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="PJ8-35-XHi" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="1" id="9q8-KN-uur"/>
+                    <constraint firstAttribute="bottom" secondItem="2Kc-fs-VcY" secondAttribute="bottom" constant="1" id="H5A-A8-le5"/>
+                    <constraint firstItem="2Kc-fs-VcY" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="JR1-X3-7aH"/>
+                    <constraint firstAttribute="bottom" secondItem="Ybk-ru-a38" secondAttribute="bottom" constant="1" id="TBH-fV-isp"/>
+                    <constraint firstItem="CXs-Tu-x5O" firstAttribute="leading" secondItem="Ybk-ru-a38" secondAttribute="trailing" constant="8" id="Te1-1c-29i"/>
+                    <constraint firstItem="PJ8-35-XHi" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="YW7-nY-A97"/>
+                    <constraint firstAttribute="trailing" secondItem="PJ8-35-XHi" secondAttribute="trailing" constant="8" id="hEp-Im-lPl"/>
+                    <constraint firstItem="PJ8-35-XHi" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="1" id="k5e-DC-rTE"/>
+                    <constraint firstItem="PJ8-35-XHi" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="usc-ca-1Nh"/>
+                    <constraint firstAttribute="trailing" secondItem="CXs-Tu-x5O" secondAttribute="trailing" constant="4" id="wYD-Gh-myM"/>
+                    <constraint firstAttribute="bottom" secondItem="CXs-Tu-x5O" secondAttribute="bottom" constant="1" id="yih-iW-pFT"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="address" destination="PJ8-35-XHi" id="WFS-0w-ibw"/>
+                <outlet property="category" destination="2Kc-fs-VcY" id="97O-8T-YV1"/>
+                <outlet property="time" destination="CXs-Tu-x5O" id="J7q-Ey-uVW"/>
+                <outlet property="user" destination="Ybk-ru-a38" id="9SZ-5w-ATg"/>
+            </connections>
+            <point key="canvasLocation" x="165.5" y="161"/>
+        </tableViewCell>
+    </objects>
+</document>

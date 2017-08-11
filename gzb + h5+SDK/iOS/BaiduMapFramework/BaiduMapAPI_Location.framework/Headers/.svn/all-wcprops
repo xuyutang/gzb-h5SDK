@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26750/trunk/telecom/iOS/BaiduMapFramework/BaiduMapAPI_Location.framework/Headers
+END
+BMKLocationService.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/winetone/!svn/ver/26750/trunk/telecom/iOS/BaiduMapFramework/BaiduMapAPI_Location.framework/Headers/BMKLocationService.h
+END
+BMKLocationComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repo/winetone/!svn/ver/26750/trunk/telecom/iOS/BaiduMapFramework/BaiduMapAPI_Location.framework/Headers/BMKLocationComponent.h
+END
+BMKLocationVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repo/winetone/!svn/ver/26750/trunk/telecom/iOS/BaiduMapFramework/BaiduMapAPI_Location.framework/Headers/BMKLocationVersion.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repo/winetone/!svn/ver/25106/trunk/telecom/iOS/thirdlibs
+END
+libcrypto.a
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/winetone/!svn/ver/25106/trunk/telecom/iOS/thirdlibs/libcrypto.a
+END
+libssl.a
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/winetone/!svn/ver/25106/trunk/telecom/iOS/thirdlibs/libssl.a
+END

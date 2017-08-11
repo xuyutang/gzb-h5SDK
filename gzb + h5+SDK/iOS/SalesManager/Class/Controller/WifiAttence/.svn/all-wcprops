@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/27155/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence
+END
+WifiListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/24147/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiListViewController.h
+END
+WifiAttendanceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/24477/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceCell.m
+END
+WifiAttenceSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/27106/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttenceSearch.m
+END
+WifiListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/26790/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiListViewController.m
+END
+AddWifiViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/24336/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/AddWifiViewController.h
+END
+WifiAttendanceDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/winetone/!svn/ver/24477/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceDetailViewController.h
+END
+AddWifiViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/26781/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/AddWifiViewController.m
+END
+WifiAttendanceListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/winetone/!svn/ver/24094/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceListViewController.xib
+END
+WifiAttendanceDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/winetone/!svn/ver/27155/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceDetailViewController.m
+END
+FillCardViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/24747/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/FillCardViewController.h
+END
+WifiAttendanceCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/24788/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceCell.xib
+END
+WifiAttendanceListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/winetone/!svn/ver/24477/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceListViewController.h
+END
+WifiAttenceSearch.xib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/24756/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttenceSearch.xib
+END
+FillCardViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/24933/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/FillCardViewController.m
+END
+WifiAttendanceListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/winetone/!svn/ver/27116/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceListViewController.m
+END
+WifiAttendanceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/24477/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttendanceCell.h
+END
+WifiAttenceSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/24468/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttence/WifiAttenceSearch.h
+END

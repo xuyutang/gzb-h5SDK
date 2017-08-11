@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/26998/trunk/telecom/iOS/SalesManager/Class/Controller/PrintBlueTooth/PrintView
+END
+PrintDefaults.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/winetone/!svn/ver/20169/trunk/telecom/iOS/SalesManager/Class/Controller/PrintBlueTooth/PrintView/PrintDefaults.m
+END
+WTPrintViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/winetone/!svn/ver/21381/trunk/telecom/iOS/SalesManager/Class/Controller/PrintBlueTooth/PrintView/WTPrintViewController.m
+END
+WTPrintViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repo/winetone/!svn/ver/20169/trunk/telecom/iOS/SalesManager/Class/Controller/PrintBlueTooth/PrintView/WTPrintViewController.xib
+END
+PrintDefaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repo/winetone/!svn/ver/20169/trunk/telecom/iOS/SalesManager/Class/Controller/PrintBlueTooth/PrintView/PrintDefaults.h
+END
+WTPrintViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/winetone/!svn/ver/21381/trunk/telecom/iOS/SalesManager/Class/Controller/PrintBlueTooth/PrintView/WTPrintViewController.h
+END

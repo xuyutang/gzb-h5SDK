@@ -1,0 +1,189 @@
+//
+//  SplashViewController.m
+//  SalesManager
+//
+//  Created by liu xueyan on 8/1/13. 
+//  Copyright (c) 2013 liu xueyan. All rights reserved.
+//
+
+#import "SplashViewController.h"
+#import "LoginViewController.h"
+#import "AppDelegate.h"
+#import "LocalManager.h"
+#import "Constant.h"
+#import "DashboardViewController.h"
+#import "FXLabel.h"
+#import "SDImageView+SDWebCache.h"
+#import "FBShimmeringView.h"
+#import "NSString+Helpers.h"
+#import "CookieHelper.h"
+
+@interface SplashViewController () {
+    NSTimer* timer;
+    FBShimmeringView* _shimmeringView;
+    UILabel *title;
+}
+
+@end
+
+@implementation SplashViewController
+@synthesize user;
+
+- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
+    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+    if (self) {
+         
+    }
+    return self;
+}
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    NSString *appDomain = [[NSBundle mainBundle] bundleIdentifier];
+    [[NSUserDefaults standardUserDefaults] removePersistentDomainForName:appDomain];
+    
+    UIImageView *bgView = [[UIImageView alloc] initWithFrame:self.view.frame];
+    bgView.image = [UIImage imageNamed:@"Default-568h@2x"];
+    bgView.contentMode = UIViewContentModeScaleToFill;
+    self.view = bgView;
+    [bgView release];
+    [self.navigationController setNavigationBarHidden:YES animated:NO];
+  
+    appDelegate = APPDELEGATE;
+    AGENT.delegate = self;
+    
+    user = [[LOCALMANAGER getLoginUser] retain];
+    appDelegate.bFirstLogin = (user == nil) ? TRUE : FALSE;
+    appDelegate.currentUser = user;
+    
+    [self _startLogin];
+}
+
+- (void) _startLogin {
+    
+    if (!appDelegate.bFirstLogin){
+        
+        [self setLoginUser];
+       
+    }else{
+        [self toLogin];
+    }
+}
+
+-(void)toMain {
+    [self connectSocket];
+    [self performSelectorOnMainThread:@selector(toMainPage) withObject:nil waitUntilDone:NO];
+}
+
+//设置自动登录用户
+-(void)setLoginUser {
+    HUDHIDE;
+    [USER release];
+    USER = nil;
+    USER = [LOCALMANAGER getLoginUser];
+    User_Builder *userPb = [USER toBuilder];
+    [userPb setPassword:USER.password.sha256];
+    USER = [[userPb build] retain];
+    if (USER != nil && ![LOCALMANAGER validateUserExpire:USER]) {
+        NSLog(@"Local app version:%@",[LOCALMANAGER getKvoByKey: KEY_APP_VERSION]);
+        NSLog(@"Current app version:%@",[UIDevice appVersion]);
+
+        if (![[LOCALMANAGER getKvoByKey:KEY_APP_VERSION] isEqualToString:[UIDevice appVersion]]) {
+            [LOCALMANAGER saveKvo: [UIDevice appVersion] key:KEY_APP_VERSION];
+            SHOWHUD;
+            NSLog(@"Version changed,need to sync.");
+            AGENT.delegate = self;
+            
+            if (DONE != [AGENT sendRequestWithType:ActionTypeLogin param:USER]) {
+                HUDHIDE2;
+                [MESSAGE showMessageWithTitle:NSLocalizedString(@"note", @"")
+                                  description:NSLocalizedString(@"error_connect_server", @"")
+                                         type:MessageBarMessageTypeError
+                                  forDuration:ERR_MSG_DURATION];
+                [self toLogin];
+            }
+            /*if (DONE != [AGENT sendRequestWithType:ActionTypeSyncBaseData param:USER]){
+                [self toMain];
+            }*/
+        }
+        else{
+           [self toMain];
+        }
+    }else{
+        [MESSAGE showMessageWithTitle:NSLocalizedString(@"login_msg_posting", @"")
+                          description:NSLocalizedString(@"error_account_expired", @"")
+                                 type:MessageBarMessageTypeInfo
+                          forDuration:INFO_MSG_DURATION];
+        
+        [USER release];
+        USER = nil;
+        [self toLogin];
+        return;
+    }
+}
+
+-(void)toLogin {
+    [self.navigationController pushViewController:appDelegate.loginCtrl animated:YES];
+}
+
+- (void)toMainPage {
+    
+    [appDelegate initPage];
+    [VIEWCONTROLLER create:self.navigationController ViewId:FUNC_DASHBOARD Object:nil Delegate:nil NeedBack:NO];
+}
+
+-(void) connectSocket{
+    //创建socket连接
+    [AGENT loginWithUsername:USER.userName password:USER.password.sha256];
+}
+
+- (void)didReceiveMessage:(id)message {
+    SessionResponse* cr = [SessionResponse parseFromData:message];
+    switch (INT_ACTIONTYPE(cr.type)) {
+        case ActionTypeLogin:{
+            HUDHIDE2;
+            if ([cr.code isEqual: NS_ACTIONCODE(ActionCodeDone)]){
+                SHOWHUD;
+                if (DONE != [AGENT sendRequestWithType:ActionTypeSyncBaseData param:USER]) {
+                    HUDHIDE2;
+                    [MESSAGE showMessageWithTitle:NSLocalizedString(@"note", @"")
+                                      description:NSLocalizedString(@"error_connect_server", @"")
+                                             type:MessageBarMessageTypeError
+                                      forDuration:ERR_MSG_DURATION];
+                    [self toLogin];
+                }
+                
+                }
+            }
+            break;
+        case   ActionTypeSyncBaseData:{
+            HUDHIDE2;
+            if ([cr.code isEqual: NS_ACTIONCODE(ActionCodeDone)]) {
+                [(APPDELEGATE) syncData:cr.data];
+                
+                [[NSNotificationCenter defaultCenter] postNotificationName:SYNC_NOTIFICATION_MENU object:nil];
+
+                [self toMain];
+               
+            }
+        }
+            break;
+        default:
+            break;
+    }
+}
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+- (void)dealloc {
+  [super dealloc];
+}
+
+- (void)viewDidUnload {
+    [super viewDidUnload];
+}
+
+@end

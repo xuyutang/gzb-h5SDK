@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/winetone/!svn/ver/24933/trunk/telecom/iOS/SalesManager/Class/Model
+END
+AlarmItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/AlarmItem.h
+END
+SMContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Model/SMContact.h
+END
+AlarmItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/AlarmItem.m
+END
+SMContact.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Model/SMContact.m
+END
+SMProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/13830/trunk/telecom/iOS/SalesManager/Class/Model/SMProduct.h
+END
+SMCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Model/SMCustomer.h
+END
+CheckInShiftModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/24933/trunk/telecom/iOS/SalesManager/Class/Model/CheckInShiftModel.h
+END
+MenuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Model/MenuItem.h
+END
+SMProduct.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/13830/trunk/telecom/iOS/SalesManager/Class/Model/SMProduct.m
+END
+SMCustomer.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Model/SMCustomer.m
+END
+CheckInShiftModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/24232/trunk/telecom/iOS/SalesManager/Class/Model/CheckInShiftModel.m
+END
+MenuItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Model/MenuItem.m
+END

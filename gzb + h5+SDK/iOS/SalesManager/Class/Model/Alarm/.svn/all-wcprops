@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm
+END
+MADebugMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/MADebugMacros.h
+END
+NSDate+MADateExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/NSDate+MADateExtensions.m
+END
+Alarm+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Alarm+Extensions.m
+END
+Alarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Alarm.h
+END
+Repetition+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Repetition+Extensions.h
+END
+NSManagedObject+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/NSManagedObject+Extensions.h
+END
+Alarm.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Alarm.m
+END
+Repetition+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Repetition+Extensions.m
+END
+Repetition.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Repetition.h
+END
+NSManagedObject+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/NSManagedObject+Extensions.m
+END
+NSDate+MADateExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/NSDate+MADateExtensions.h
+END
+Alarm+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Alarm+Extensions.h
+END
+Repetition.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Model/Alarm/Repetition.m
+END

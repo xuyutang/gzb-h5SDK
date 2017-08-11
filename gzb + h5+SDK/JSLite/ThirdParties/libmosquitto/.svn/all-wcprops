@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto
+END
+mqtt3_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/mqtt3_protocol.h
+END
+mosquitto.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/mosquitto.c
+END
+mosquitto_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/mosquitto_internal.h
+END
+messages_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/messages_mosq.c
+END
+thread_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/thread_mosq.c
+END
+will_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/will_mosq.c
+END
+memory_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/memory_mosq.c
+END
+dummypthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/dummypthread.h
+END
+mosquitto.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/mosquitto.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/config.h
+END
+messages_mosq.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/messages_mosq.h
+END
+will_mosq.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/will_mosq.h
+END
+memory_mosq.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/memory_mosq.h
+END
+read_handle_shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/read_handle_shared.c
+END
+util_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/util_mosq.c
+END
+util_mosq.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/util_mosq.h
+END
+read_handle_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/read_handle_client.c
+END
+net_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/net_mosq.c
+END
+logging_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/logging_mosq.c
+END
+read_handle.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/read_handle.c
+END
+send_client_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/send_client_mosq.c
+END
+send_mosq.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/send_mosq.c
+END
+net_mosq.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/net_mosq.h
+END
+logging_mosq.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/logging_mosq.h
+END
+read_handle.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/read_handle.h
+END
+send_mosq.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/9757/thirdparty/ios_lite_library/ThirdParties/libmosquitto/send_mosq.h
+END

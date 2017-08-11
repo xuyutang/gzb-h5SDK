@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/27218/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday
+END
+HolidayListParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/24067/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/HolidayListParams.h
+END
+LeaveBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/27218/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveBaseViewController.m
+END
+LeaveManagerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/26698/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveManagerViewController.m
+END
+LeaveTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/24037/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveTypeViewController.h
+END
+HolidayListParams.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/24006/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/HolidayListParams.m
+END
+AppliedDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/27179/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/AppliedDetailViewController.h
+END
+LeaveApplyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/26226/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveApplyViewController.h
+END
+LeaveTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/24037/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveTypeViewController.m
+END
+LeaveTypeBtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/23977/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveTypeBtn.h
+END
+AppliedDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/27179/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/AppliedDetailViewController.m
+END
+AuditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/24066/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/AuditViewController.h
+END
+LeaveApplyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/27085/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveApplyViewController.m
+END
+LeaveTypeBtn.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/24038/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveTypeBtn.m
+END
+AuditViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/27191/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/AuditViewController.m
+END
+AppliedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/24066/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/AppliedViewController.h
+END
+AppliedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/27191/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/AppliedViewController.m
+END
+LeaveManagerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/23992/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveManagerViewController.h
+END
+LeaveBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/23977/trunk/telecom/iOS/SalesManager/Class/Controller/Holiday/LeaveBaseViewController.h
+END

@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc
+END
+BMKShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKShape.h
+END
+BMKCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKCircle.h
+END
+BMKOverlayGLBasicView.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKOverlayGLBasicView.h
+END
+BMKMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKMultiPoint.h
+END
+BMKShareUrlSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKShareUrlSearchOption.h
+END
+BMKPoiSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPoiSearchOption.h
+END
+BMKMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKMapView.h
+END
+BMKActionPaopaoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKActionPaopaoView.h
+END
+BMKArclineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKArclineView.h
+END
+BMKCloudSearchInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKCloudSearchInfo.h
+END
+BMKLocationViewDisplayParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKLocationViewDisplayParam.h
+END
+BMKCloudPOIList.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKCloudPOIList.h
+END
+BMKShareURLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKShareURLSearch.h
+END
+BMKOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKOverlayView.h
+END
+BMKArcline.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKArcline.h
+END
+BMKPoiSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPoiSearch.h
+END
+BMKCloudSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKCloudSearchComponent.h
+END
+BMKBusLineSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKBusLineSearchOption.h
+END
+BMKOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKOverlay.h
+END
+BMKOfflineMapType.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKOfflineMapType.h
+END
+BMKPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPolygonView.h
+END
+BMKUtilsComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKUtilsComponent.h
+END
+BMKPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPointAnnotation.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKVersion.h
+END
+BMKPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPolylineView.h
+END
+BMKRouteSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKRouteSearchType.h
+END
+BMKBusLineSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKBusLineSearch.h
+END
+BMKPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPolygon.h
+END
+BMKSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKSearchComponent.h
+END
+BMKOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKOverlayPathView.h
+END
+BMKGroundOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGroundOverlayView.h
+END
+BMKPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPolyline.h
+END
+BMKCloudSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKCloudSearch.h
+END
+BMKGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGradient.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKBaseComponent.h
+END
+BMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMapKit.h
+END
+BMKNavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKNavigation.h
+END
+BMKMapComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKMapComponent.h
+END
+BMKGroundOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGroundOverlay.h
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKTypes.h
+END
+BMKAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKAnnotationView.h
+END
+BMKSuggestionSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKSuggestionSearchOption.h
+END
+BMKGeocodeType.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGeocodeType.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKUserLocation.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKMapManager.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGeneralDelegate.h
+END
+BMKAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKAnnotation.h
+END
+BMKPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPinAnnotationView.h
+END
+BMKRouteSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKRouteSearchOption.h
+END
+BMKSuggestionSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKSuggestionSearch.h
+END
+BMKHeatMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKHeatMap.h
+END
+BMKPoiSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKPoiSearchType.h
+END
+BMKOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKOfflineMap.h
+END
+BMKMapStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKMapStatus.h
+END
+BMKGeocodeSearchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGeocodeSearchOption.h
+END
+BMKRouteSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKRouteSearch.h
+END
+BMKLocationService.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKLocationService.h
+END
+BMKLocationComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKLocationComponent.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGeometry.h
+END
+BMKGeocodeSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKGeocodeSearch.h
+END
+BMKCircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12776/thirdparty/ios_lite_library/ThirdParties/Location/inc/BMKCircleView.h
+END

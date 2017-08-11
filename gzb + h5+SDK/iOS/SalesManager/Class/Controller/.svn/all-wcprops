@@ -1,0 +1,2237 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/27224/trunk/telecom/iOS/SalesManager/Class/Controller
+END
+CompetitionListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/22903/trunk/telecom/iOS/SalesManager/Class/Controller/CompetitionListViewController.m
+END
+GiftPageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22097/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPageViewController.m
+END
+DashboardViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/26791/trunk/telecom/iOS/SalesManager/Class/Controller/DashboardViewController.m
+END
+CustomerListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/20086/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerListViewController.h
+END
+FavCustomerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/22430/trunk/telecom/iOS/SalesManager/Class/Controller/FavCustomerViewController.h
+END
+AttendanceDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/27155/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceDetailViewController.m
+END
+PatrolViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/26490/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolViewController.h
+END
+OrderSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/OrderSearchViewController.h
+END
+CustomerListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/20086/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerListViewController.m
+END
+FavCustomerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/23123/trunk/telecom/iOS/SalesManager/Class/Controller/FavCustomerViewController.m
+END
+NewOrderConfirmViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/20330/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderConfirmViewController.h
+END
+BaseTablesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22429/trunk/telecom/iOS/SalesManager/Class/Controller/BaseTablesViewController.h
+END
+PatrolViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/27153/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolViewController.m
+END
+OrderSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/OrderSearchViewController.m
+END
+NewOrderConfirmViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/23184/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderConfirmViewController.m
+END
+VideoTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/18086/trunk/telecom/iOS/SalesManager/Class/Controller/VideoTypeViewController.h
+END
+BaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/25193/trunk/telecom/iOS/SalesManager/Class/Controller/BaseViewController.h
+END
+BaseTablesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26826/trunk/telecom/iOS/SalesManager/Class/Controller/BaseTablesViewController.m
+END
+ThreeFilterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/20890/trunk/telecom/iOS/SalesManager/Class/Controller/ThreeFilterViewController.h
+END
+VideoTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/22146/trunk/telecom/iOS/SalesManager/Class/Controller/VideoTypeViewController.m
+END
+GiftDistributeListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeListViewController.xib
+END
+BaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/26799/trunk/telecom/iOS/SalesManager/Class/Controller/BaseViewController.m
+END
+ThreeFilterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/27118/trunk/telecom/iOS/SalesManager/Class/Controller/ThreeFilterViewController.m
+END
+GiftDeliveryListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliveryListViewController.xib
+END
+BusinessOpportunityListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunityListViewController.h
+END
+MainFunctionViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/MainFunctionViewController.xib
+END
+BusinessOpportunityListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/winetone/!svn/ver/25410/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunityListViewController.m
+END
+TaskListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/17846/trunk/telecom/iOS/SalesManager/Class/Controller/TaskListViewController.xib
+END
+MainFunctionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/MainFunctionViewController.h
+END
+BaseCustomerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/20796/trunk/telecom/iOS/SalesManager/Class/Controller/BaseCustomerViewController.h
+END
+MainFunctionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22848/trunk/telecom/iOS/SalesManager/Class/Controller/MainFunctionViewController.m
+END
+BaseCustomerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/23285/trunk/telecom/iOS/SalesManager/Class/Controller/BaseCustomerViewController.m
+END
+NearPersonViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/16560/trunk/telecom/iOS/SalesManager/Class/Controller/NearPersonViewController.h
+END
+UserSelectViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/UserSelectViewController.h
+END
+NearPersonViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26201/trunk/telecom/iOS/SalesManager/Class/Controller/NearPersonViewController.m
+END
+UserSelectViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/UserSelectViewController.m
+END
+ResearchListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchListViewController.xib
+END
+GiftStockSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockSearchViewController.h
+END
+PatrolPictureListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolPictureListViewController.xib
+END
+GiftStockSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockSearchViewController.m
+END
+AddMessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26188/trunk/telecom/iOS/SalesManager/Class/Controller/AddMessageViewController.h
+END
+AddMessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/27138/trunk/telecom/iOS/SalesManager/Class/Controller/AddMessageViewController.m
+END
+InspectionListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionListViewController.xib
+END
+ChangePasswdViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/23174/trunk/telecom/iOS/SalesManager/Class/Controller/ChangePasswdViewController.h
+END
+StockListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/StockListViewController.xib
+END
+SaleListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/SaleListViewController.xib
+END
+InspectionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/21381/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionViewController.h
+END
+ChangePasswdViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/23229/trunk/telecom/iOS/SalesManager/Class/Controller/ChangePasswdViewController.m
+END
+UploadListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/Controller/UploadListViewController.h
+END
+InspectionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/23225/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionViewController.m
+END
+MyViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/17889/trunk/telecom/iOS/SalesManager/Class/Controller/MyViewController.xib
+END
+NameFilterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/24455/trunk/telecom/iOS/SalesManager/Class/Controller/NameFilterViewController.xib
+END
+NewOrderListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/20890/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderListViewController.h
+END
+StockViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/StockViewController.h
+END
+NIDropDown.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/26188/trunk/telecom/iOS/SalesManager/Class/Controller/NIDropDown.h
+END
+UploadListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22261/trunk/telecom/iOS/SalesManager/Class/Controller/UploadListViewController.m
+END
+TaskCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/16837/trunk/telecom/iOS/SalesManager/Class/Controller/TaskCommentViewController.h
+END
+NewOrderListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22146/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderListViewController.m
+END
+StockViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/27232/trunk/telecom/iOS/SalesManager/Class/Controller/StockViewController.m
+END
+GiftDistributeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/22036/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeViewController.h
+END
+NIDropDown.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/26188/trunk/telecom/iOS/SalesManager/Class/Controller/NIDropDown.m
+END
+GiftDeliveryListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/16786/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliveryListViewController.h
+END
+TaskCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/22944/trunk/telecom/iOS/SalesManager/Class/Controller/TaskCommentViewController.m
+END
+GiftDistributeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/23225/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeViewController.m
+END
+GiftDeliveryListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/22328/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliveryListViewController.m
+END
+SingleTaskListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/15305/trunk/telecom/iOS/SalesManager/Class/Controller/SingleTaskListViewController.h
+END
+PatrolTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22396/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolTypeViewController.h
+END
+CustNameAndNameFilterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repo/winetone/!svn/ver/25022/trunk/telecom/iOS/SalesManager/Class/Controller/CustNameAndNameFilterViewController.xib
+END
+SingleTaskListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/15305/trunk/telecom/iOS/SalesManager/Class/Controller/SingleTaskListViewController.m
+END
+OnceTaskViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/15345/trunk/telecom/iOS/SalesManager/Class/Controller/OnceTaskViewController.h
+END
+PatrolTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22396/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolTypeViewController.m
+END
+WorklogSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogSearchViewController.h
+END
+GiftPurchaseListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseListViewController.xib
+END
+TaskManageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/TaskManageViewController.h
+END
+OnceTaskViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22944/trunk/telecom/iOS/SalesManager/Class/Controller/OnceTaskViewController.m
+END
+VideoPostViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/25429/trunk/telecom/iOS/SalesManager/Class/Controller/VideoPostViewController.h
+END
+MapTaggingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/MapTaggingViewController.h
+END
+CustomerDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/20086/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerDetailViewController.xib
+END
+WorklogSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogSearchViewController.m
+END
+GiftStockDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockDetailViewController.h
+END
+TaskManageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/TaskManageViewController.m
+END
+VideoPostViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/25429/trunk/telecom/iOS/SalesManager/Class/Controller/VideoPostViewController.m
+END
+MapTaggingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/24904/trunk/telecom/iOS/SalesManager/Class/Controller/MapTaggingViewController.m
+END
+GiftStockDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockDetailViewController.m
+END
+SaleStatisticsSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/Controller/SaleStatisticsSearchViewController.h
+END
+PatrolListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolListViewController.xib
+END
+PatrolPictureListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolPictureListViewController.h
+END
+VIdeoDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/22199/trunk/telecom/iOS/SalesManager/Class/Controller/VIdeoDetailViewController.h
+END
+SaleStatisticsSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/SaleStatisticsSearchViewController.m
+END
+PatrolPictureListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/13288/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolPictureListViewController.m
+END
+VIdeoDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/26594/trunk/telecom/iOS/SalesManager/Class/Controller/VIdeoDetailViewController.m
+END
+SaleStatisticsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/19860/trunk/telecom/iOS/SalesManager/Class/Controller/SaleStatisticsViewController.h
+END
+SaleStatisticsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/20778/trunk/telecom/iOS/SalesManager/Class/Controller/SaleStatisticsViewController.m
+END
+TrackViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/20989/trunk/telecom/iOS/SalesManager/Class/Controller/TrackViewController.h
+END
+AuditTableViewCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/26575/trunk/telecom/iOS/SalesManager/Class/Controller/AuditTableViewCell.xib
+END
+PatrolDetail2ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolDetail2ViewController.h
+END
+AttendanceViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/23977/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceViewController.h
+END
+TrackViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/24055/trunk/telecom/iOS/SalesManager/Class/Controller/TrackViewController.m
+END
+AuditTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/26369/trunk/telecom/iOS/SalesManager/Class/Controller/AuditTableViewCell.h
+END
+CustTagSelectViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/21301/trunk/telecom/iOS/SalesManager/Class/Controller/CustTagSelectViewController.h
+END
+AttendanceViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/23977/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceViewController.m
+END
+PatrolDetail2ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/27153/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolDetail2ViewController.m
+END
+CompanySpaceViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/18222/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpaceViewController.xib
+END
+BusinessOpportunityListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/21947/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunityListViewController.xib
+END
+AuditTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/26369/trunk/telecom/iOS/SalesManager/Class/Controller/AuditTableViewCell.m
+END
+AlarmDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/17034/trunk/telecom/iOS/SalesManager/Class/Controller/AlarmDetailViewController.h
+END
+CustTagSelectViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/22306/trunk/telecom/iOS/SalesManager/Class/Controller/CustTagSelectViewController.m
+END
+CompanySpaceViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpaceViewController.h
+END
+MessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/16476/trunk/telecom/iOS/SalesManager/Class/Controller/MessageViewController.h
+END
+AlarmDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/17034/trunk/telecom/iOS/SalesManager/Class/Controller/AlarmDetailViewController.m
+END
+NewOrderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/20927/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderViewController.h
+END
+CompanySpaceViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22030/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpaceViewController.m
+END
+MessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/27142/trunk/telecom/iOS/SalesManager/Class/Controller/MessageViewController.m
+END
+NewOrderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/23138/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderViewController.m
+END
+SplashViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/25193/trunk/telecom/iOS/SalesManager/Class/Controller/SplashViewController.h
+END
+GiftDeliveryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22034/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliveryViewController.h
+END
+SplashViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/27233/trunk/telecom/iOS/SalesManager/Class/Controller/SplashViewController.m
+END
+CustomerSelectViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/20597/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerSelectViewController.h
+END
+GiftDeliveryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/23225/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliveryViewController.m
+END
+DepartmentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26492/trunk/telecom/iOS/SalesManager/Class/Controller/DepartmentViewController.h
+END
+InspectionTargetsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionTargetsViewController.h
+END
+CompanyContactsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/21929/trunk/telecom/iOS/SalesManager/Class/Controller/CompanyContactsViewController.h
+END
+DataSyncViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22974/trunk/telecom/iOS/SalesManager/Class/Controller/DataSyncViewController.h
+END
+CustomerSelectViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/22157/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerSelectViewController.m
+END
+WorklogDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/19919/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogDetailViewController.h
+END
+NearPersonViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22350/trunk/telecom/iOS/SalesManager/Class/Controller/NearPersonViewController.xib
+END
+CityViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/20989/trunk/telecom/iOS/SalesManager/Class/Controller/CityViewController.h
+END
+DepartmentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26492/trunk/telecom/iOS/SalesManager/Class/Controller/DepartmentViewController.m
+END
+PatrolSearch2ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolSearch2ViewController.h
+END
+CustNameAndNameFilterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/20847/trunk/telecom/iOS/SalesManager/Class/Controller/CustNameAndNameFilterViewController.h
+END
+CompanyContactsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/26873/trunk/telecom/iOS/SalesManager/Class/Controller/CompanyContactsViewController.m
+END
+InspectionTargetsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/22850/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionTargetsViewController.m
+END
+DataSyncViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/26704/trunk/telecom/iOS/SalesManager/Class/Controller/DataSyncViewController.m
+END
+WorklogDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/27094/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogDetailViewController.m
+END
+CustWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/24054/trunk/telecom/iOS/SalesManager/Class/Controller/CustWebViewController.h
+END
+ApplyListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/26735/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyListViewController.xib
+END
+CityViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/22428/trunk/telecom/iOS/SalesManager/Class/Controller/CityViewController.m
+END
+PatrolSearch2ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolSearch2ViewController.m
+END
+CustNameAndNameFilterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/27118/trunk/telecom/iOS/SalesManager/Class/Controller/CustNameAndNameFilterViewController.m
+END
+CompanySpacePageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpacePageViewController.h
+END
+CustWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/24054/trunk/telecom/iOS/SalesManager/Class/Controller/CustWebViewController.m
+END
+WorklogViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/23014/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogViewController.h
+END
+CompanySpacePageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/23138/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpacePageViewController.m
+END
+InspectionTargetTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/22249/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionTargetTypeViewController.h
+END
+ResearchListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchListViewController.h
+END
+WorklogViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/23260/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogViewController.m
+END
+InspectionTargetTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/22249/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionTargetTypeViewController.m
+END
+GiftTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/GiftTypeViewController.h
+END
+ResearchListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22867/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchListViewController.m
+END
+GiftTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftTypeViewController.m
+END
+AnnounceViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/21658/trunk/telecom/iOS/SalesManager/Class/Controller/AnnounceViewController.xib
+END
+AboutViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/26639/trunk/telecom/iOS/SalesManager/Class/Controller/AboutViewController.xib
+END
+ThreeFilterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/27104/trunk/telecom/iOS/SalesManager/Class/Controller/ThreeFilterViewController.xib
+END
+AboutViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/AboutViewController.h
+END
+ContactsPageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/13062/trunk/telecom/iOS/SalesManager/Class/Controller/ContactsPageViewController.h
+END
+EditFunctionsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/16307/trunk/telecom/iOS/SalesManager/Class/Controller/EditFunctionsViewController.h
+END
+AboutViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/22279/trunk/telecom/iOS/SalesManager/Class/Controller/AboutViewController.m
+END
+SaleListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/SaleListViewController.h
+END
+ContactsPageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22168/trunk/telecom/iOS/SalesManager/Class/Controller/ContactsPageViewController.m
+END
+EditFunctionsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/24032/trunk/telecom/iOS/SalesManager/Class/Controller/EditFunctionsViewController.m
+END
+SaleListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22903/trunk/telecom/iOS/SalesManager/Class/Controller/SaleListViewController.m
+END
+BusinessOpportunityViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/21903/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunityViewController.h
+END
+InputViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/18514/trunk/telecom/iOS/SalesManager/Class/Controller/InputViewController.xib
+END
+NameFilterViewController副本.xib
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/NameFilterViewController%E5%89%AF%E6%9C%AC.xib
+END
+TrackMapViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22705/trunk/telecom/iOS/SalesManager/Class/Controller/TrackMapViewController.xib
+END
+BusinessOpportunityViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/23225/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunityViewController.m
+END
+TrackMapViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22705/trunk/telecom/iOS/SalesManager/Class/Controller/TrackMapViewController.h
+END
+TaskViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/TaskViewController.h
+END
+BaseOrderWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/BaseOrderWebViewController.h
+END
+TrackMapViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/24899/trunk/telecom/iOS/SalesManager/Class/Controller/TrackMapViewController.m
+END
+TaskViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/12546/trunk/telecom/iOS/SalesManager/Class/Controller/TaskViewController.m
+END
+ProductFavorateViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/23008/trunk/telecom/iOS/SalesManager/Class/Controller/ProductFavorateViewController.h
+END
+BaseOrderWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/27218/trunk/telecom/iOS/SalesManager/Class/Controller/BaseOrderWebViewController.m
+END
+MainMenuViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/MainMenuViewController.h
+END
+ProductFavorateViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/23008/trunk/telecom/iOS/SalesManager/Class/Controller/ProductFavorateViewController.m
+END
+MainMenuViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/26791/trunk/telecom/iOS/SalesManager/Class/Controller/MainMenuViewController.m
+END
+GiftPurchaseListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseListViewController.h
+END
+CompetitionListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/CompetitionListViewController.xib
+END
+ApplyListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/26616/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyListViewController.h
+END
+AnnounceDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/AnnounceDetailViewController.xib
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/20215/trunk/telecom/iOS/SalesManager/Class/Controller/index.html
+END
+GiftPurchaseListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/22145/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseListViewController.m
+END
+ApplyListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/27179/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyListViewController.m
+END
+AttendanceListViewViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceListViewViewController.h
+END
+TrackViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/20989/trunk/telecom/iOS/SalesManager/Class/Controller/TrackViewController.xib
+END
+TaskPageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/17087/trunk/telecom/iOS/SalesManager/Class/Controller/TaskPageViewController.h
+END
+AttendanceListViewViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/24916/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceListViewViewController.m
+END
+OrderListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/20215/trunk/telecom/iOS/SalesManager/Class/Controller/OrderListViewController.xib
+END
+TaskPageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/23138/trunk/telecom/iOS/SalesManager/Class/Controller/TaskPageViewController.m
+END
+CompanySpaceDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpaceDetailViewController.h
+END
+InspectionListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionListViewController.h
+END
+CompanySpaceDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/25150/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpaceDetailViewController.m
+END
+OrderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/OrderViewController.h
+END
+InspectionListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/22867/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionListViewController.m
+END
+GiftDistributeSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeSearchViewController.h
+END
+StockListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/StockListViewController.h
+END
+MessageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/17820/trunk/telecom/iOS/SalesManager/Class/Controller/MessageViewController.xib
+END
+OrderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/23138/trunk/telecom/iOS/SalesManager/Class/Controller/OrderViewController.m
+END
+GiftDeliverySearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliverySearchViewController.h
+END
+GiftDistributeSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeSearchViewController.m
+END
+StockListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/22902/trunk/telecom/iOS/SalesManager/Class/Controller/StockListViewController.m
+END
+ResearchPictureListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchPictureListViewController.h
+END
+TaskSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/TaskSearchViewController.h
+END
+GiftDeliverySearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliverySearchViewController.m
+END
+ResearchPictureListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/13288/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchPictureListViewController.m
+END
+BBFlashCtntLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/21808/trunk/telecom/iOS/SalesManager/Class/Controller/BBFlashCtntLabel.h
+END
+TaskSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/TaskSearchViewController.m
+END
+TaskListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/20890/trunk/telecom/iOS/SalesManager/Class/Controller/TaskListViewController.h
+END
+SettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/SettingsViewController.h
+END
+BBFlashCtntLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/21808/trunk/telecom/iOS/SalesManager/Class/Controller/BBFlashCtntLabel.m
+END
+NameFilterViewController副本.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/NameFilterViewController%E5%89%AF%E6%9C%AC.h
+END
+NewOrderPrintViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/20238/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderPrintViewController.h
+END
+TaskListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22998/trunk/telecom/iOS/SalesManager/Class/Controller/TaskListViewController.m
+END
+HeaderSearchBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/17837/trunk/telecom/iOS/SalesManager/Class/Controller/HeaderSearchBar.h
+END
+SettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/26816/trunk/telecom/iOS/SalesManager/Class/Controller/SettingsViewController.m
+END
+SearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/SearchViewController.h
+END
+CropImageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/16291/trunk/telecom/iOS/SalesManager/Class/Controller/CropImageViewController.h
+END
+NameFilterViewController副本.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/NameFilterViewController%E5%89%AF%E6%9C%AC.m
+END
+NewOrderPrintViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/22902/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderPrintViewController.m
+END
+HeaderSearchBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/21076/trunk/telecom/iOS/SalesManager/Class/Controller/HeaderSearchBar.m
+END
+SearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/SearchViewController.m
+END
+MyFavoratePageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/23008/trunk/telecom/iOS/SalesManager/Class/Controller/MyFavoratePageViewController.h
+END
+CropImageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/24044/trunk/telecom/iOS/SalesManager/Class/Controller/CropImageViewController.m
+END
+MyFavoratePageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/24884/trunk/telecom/iOS/SalesManager/Class/Controller/MyFavoratePageViewController.m
+END
+ResearchSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchSearchViewController.h
+END
+DashboardViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/20086/trunk/telecom/iOS/SalesManager/Class/Controller/DashboardViewController.xib
+END
+VideoDurationTypeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/20847/trunk/telecom/iOS/SalesManager/Class/Controller/VideoDurationTypeController.h
+END
+GiftStockListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockListViewController.xib
+END
+ApplyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/26526/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyViewController.h
+END
+ResearchSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchSearchViewController.m
+END
+VideoDurationTypeController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/Controller/VideoDurationTypeController.m
+END
+AnnounceDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/AnnounceDetailViewController.h
+END
+ApplyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/27232/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyViewController.m
+END
+MyTaskDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/MyTaskDetailViewController.h
+END
+AnnounceDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/25150/trunk/telecom/iOS/SalesManager/Class/Controller/AnnounceDetailViewController.m
+END
+MyTaskDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22944/trunk/telecom/iOS/SalesManager/Class/Controller/MyTaskDetailViewController.m
+END
+InspectionSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/16825/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionSearchViewController.h
+END
+WifiAttenceViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/24933/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttenceViewController.h
+END
+PatrolVideoDurationTypeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolVideoDurationTypeController.h
+END
+InspectionSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionSearchViewController.m
+END
+WifiAttenceViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/26782/trunk/telecom/iOS/SalesManager/Class/Controller/WifiAttenceViewController.m
+END
+ViewControllerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/20710/trunk/telecom/iOS/SalesManager/Class/Controller/ViewControllerFactory.h
+END
+StockSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/StockSearchViewController.h
+END
+SaleSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/SaleSearchViewController.h
+END
+PatrolVideoDurationTypeController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolVideoDurationTypeController.m
+END
+GiftDistributeDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeDetailViewController.h
+END
+ViewControllerFactory.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/26399/trunk/telecom/iOS/SalesManager/Class/Controller/ViewControllerFactory.m
+END
+StockSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/StockSearchViewController.m
+END
+SaleSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/SaleSearchViewController.m
+END
+GiftDeliveryDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliveryDetailViewController.h
+END
+GiftDistributeDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeDetailViewController.m
+END
+GiftDeliveryDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDeliveryDetailViewController.m
+END
+TaskDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/Controller/TaskDetailViewController.h
+END
+NameFilterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/20890/trunk/telecom/iOS/SalesManager/Class/Controller/NameFilterViewController.h
+END
+TaskDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/23030/trunk/telecom/iOS/SalesManager/Class/Controller/TaskDetailViewController.m
+END
+NameFilterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/27118/trunk/telecom/iOS/SalesManager/Class/Controller/NameFilterViewController.m
+END
+VideoListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/18251/trunk/telecom/iOS/SalesManager/Class/Controller/VideoListViewController.xib
+END
+VideoListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/Controller/VideoListViewController.h
+END
+VideoListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/22981/trunk/telecom/iOS/SalesManager/Class/Controller/VideoListViewController.m
+END
+MapTaggingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/MapTaggingViewController.xib
+END
+GiftPurchaseSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseSearchViewController.h
+END
+WorklogListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/21949/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogListViewController.xib
+END
+ApplyAuditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26367/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyAuditViewController.h
+END
+PlayVideViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/20847/trunk/telecom/iOS/SalesManager/Class/Controller/PlayVideViewController.h
+END
+GiftPurchaseSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseSearchViewController.m
+END
+ResearchDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchDetailViewController.h
+END
+ApplyAuditViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/26869/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyAuditViewController.m
+END
+PlayVideViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/Controller/PlayVideViewController.m
+END
+CustomerSelectViewController2.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/20086/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerSelectViewController2.h
+END
+ResearchDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/27155/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchDetailViewController.m
+END
+PatrolSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolSearchViewController.h
+END
+CustomerSelectViewController2.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerSelectViewController2.m
+END
+GiftStockListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/16786/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockListViewController.h
+END
+PatrolSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/16046/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolSearchViewController.m
+END
+ResearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22429/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchViewController.h
+END
+InspectionDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionDetailViewController.h
+END
+GiftStockListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/22145/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockListViewController.m
+END
+PatrolDetail2ViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/21852/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolDetail2ViewController.xib
+END
+ResearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/23225/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchViewController.m
+END
+InspectionDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/27155/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionDetailViewController.m
+END
+BigImageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/BigImageViewController.h
+END
+PersonViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/26494/trunk/telecom/iOS/SalesManager/Class/Controller/PersonViewController.h
+END
+BigImageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/22759/trunk/telecom/iOS/SalesManager/Class/Controller/BigImageViewController.m
+END
+NewCustomerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/20989/trunk/telecom/iOS/SalesManager/Class/Controller/NewCustomerViewController.h
+END
+PersonViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/27154/trunk/telecom/iOS/SalesManager/Class/Controller/PersonViewController.m
+END
+MyFavorateViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/MyFavorateViewController.h
+END
+BusinessOpportunitySearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunitySearchViewController.h
+END
+ResearchPictureListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/ResearchPictureListViewController.xib
+END
+NewCustomerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/25008/trunk/telecom/iOS/SalesManager/Class/Controller/NewCustomerViewController.m
+END
+AttencePageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/24232/trunk/telecom/iOS/SalesManager/Class/Controller/AttencePageViewController.h
+END
+MyFavorateViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/22157/trunk/telecom/iOS/SalesManager/Class/Controller/MyFavorateViewController.m
+END
+BusinessOpportunitySearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunitySearchViewController.m
+END
+GiftDistributeListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/16786/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeListViewController.h
+END
+SaleViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/SaleViewController.h
+END
+MyViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/24713/trunk/telecom/iOS/SalesManager/Class/Controller/MyViewController.h
+END
+AttencePageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/26791/trunk/telecom/iOS/SalesManager/Class/Controller/AttencePageViewController.m
+END
+ApplyTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyTypeViewController.h
+END
+GiftDistributeListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/27106/trunk/telecom/iOS/SalesManager/Class/Controller/GiftDistributeListViewController.m
+END
+SaleViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/27232/trunk/telecom/iOS/SalesManager/Class/Controller/SaleViewController.m
+END
+MyViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/24745/trunk/telecom/iOS/SalesManager/Class/Controller/MyViewController.m
+END
+ApplyTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/26737/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyTypeViewController.m
+END
+InputViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/Controller/InputViewController.h
+END
+RepeatTaskListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/15305/trunk/telecom/iOS/SalesManager/Class/Controller/RepeatTaskListViewController.h
+END
+OrderListRegister.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/Controller/OrderListRegister.js
+END
+OnceTaskViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/18222/trunk/telecom/iOS/SalesManager/Class/Controller/OnceTaskViewController.xib
+END
+InputViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/23245/trunk/telecom/iOS/SalesManager/Class/Controller/InputViewController.m
+END
+RepeatTaskListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/15305/trunk/telecom/iOS/SalesManager/Class/Controller/RepeatTaskListViewController.m
+END
+GiftPurchaseDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseDetailViewController.h
+END
+LoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/25350/trunk/telecom/iOS/SalesManager/Class/Controller/LoginViewController.h
+END
+CommonPhrasesListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/21102/trunk/telecom/iOS/SalesManager/Class/Controller/CommonPhrasesListViewController.h
+END
+ApplySearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/25231/trunk/telecom/iOS/SalesManager/Class/Controller/ApplySearchViewController.h
+END
+GiftPurchaseDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseDetailViewController.m
+END
+LoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/25350/trunk/telecom/iOS/SalesManager/Class/Controller/LoginViewController.m
+END
+InspectionTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/22297/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionTypeViewController.h
+END
+InspectionStatusViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/21381/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionStatusViewController.h
+END
+CommonPhrasesListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/22904/trunk/telecom/iOS/SalesManager/Class/Controller/CommonPhrasesListViewController.m
+END
+ApplySearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/25231/trunk/telecom/iOS/SalesManager/Class/Controller/ApplySearchViewController.m
+END
+MessagePageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/16476/trunk/telecom/iOS/SalesManager/Class/Controller/MessagePageViewController.h
+END
+InspectionTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/22298/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionTypeViewController.m
+END
+InspectionStatusViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/23196/trunk/telecom/iOS/SalesManager/Class/Controller/InspectionStatusViewController.m
+END
+GiftPurchaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22034/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseViewController.h
+END
+PatrolDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolDetailViewController.h
+END
+MessageHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/15258/trunk/telecom/iOS/SalesManager/Class/Controller/MessageHelper.h
+END
+MessagePageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/26798/trunk/telecom/iOS/SalesManager/Class/Controller/MessagePageViewController.m
+END
+AttendanceListViewViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/21943/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceListViewViewController.xib
+END
+GiftPurchaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/26821/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPurchaseViewController.m
+END
+PatrolDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolDetailViewController.m
+END
+MessageHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/16046/trunk/telecom/iOS/SalesManager/Class/Controller/MessageHelper.m
+END
+CompetitionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/CompetitionViewController.h
+END
+SaleStatisticsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/SaleStatisticsViewController.xib
+END
+AttendanceSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceSearchViewController.h
+END
+GiftStockViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockViewController.h
+END
+PatrolListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/18222/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolListViewController.h
+END
+CompetitionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/27232/trunk/telecom/iOS/SalesManager/Class/Controller/CompetitionViewController.m
+END
+CompanySpaceDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/Controller/CompanySpaceDetailViewController.xib
+END
+CustomerContactsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/22969/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerContactsViewController.h
+END
+AttendanceSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceSearchViewController.m
+END
+GiftStockViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/23225/trunk/telecom/iOS/SalesManager/Class/Controller/GiftStockViewController.m
+END
+PatrolListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/23226/trunk/telecom/iOS/SalesManager/Class/Controller/PatrolListViewController.m
+END
+CustomerContactsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/23295/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerContactsViewController.m
+END
+NewCustomerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/24902/trunk/telecom/iOS/SalesManager/Class/Controller/NewCustomerViewController.xib
+END
+AnnounceViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/26425/trunk/telecom/iOS/SalesManager/Class/Controller/AnnounceViewController.h
+END
+OrderListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/OrderListViewController.h
+END
+EditFunctionsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/EditFunctionsViewController.xib
+END
+AlarmDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/winetone/!svn/ver/17819/trunk/telecom/iOS/SalesManager/Class/Controller/AlarmDetailViewController.xib
+END
+BusinessOpportunityDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunityDetailViewController.h
+END
+AnnounceViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/27142/trunk/telecom/iOS/SalesManager/Class/Controller/AnnounceViewController.m
+END
+UploadListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/18044/trunk/telecom/iOS/SalesManager/Class/Controller/UploadListViewController.xib
+END
+OrderListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/22903/trunk/telecom/iOS/SalesManager/Class/Controller/OrderListViewController.m
+END
+BusinessOpportunityDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/27155/trunk/telecom/iOS/SalesManager/Class/Controller/BusinessOpportunityDetailViewController.m
+END
+AlarmListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/Class/Controller/AlarmListViewController.h
+END
+AlarmListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/17034/trunk/telecom/iOS/SalesManager/Class/Controller/AlarmListViewController.m
+END
+NewOrderNormalViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/20770/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderNormalViewController.h
+END
+AuditListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/26358/trunk/telecom/iOS/SalesManager/Class/Controller/AuditListViewController.h
+END
+NewOrderNormalViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/20847/trunk/telecom/iOS/SalesManager/Class/Controller/NewOrderNormalViewController.m
+END
+AuditListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/27179/trunk/telecom/iOS/SalesManager/Class/Controller/AuditListViewController.m
+END
+ApplyDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/26374/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyDetailViewController.h
+END
+ApplyDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/27155/trunk/telecom/iOS/SalesManager/Class/Controller/ApplyDetailViewController.m
+END
+CycleTaskViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/17846/trunk/telecom/iOS/SalesManager/Class/Controller/CycleTaskViewController.xib
+END
+CompetitionSearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/Controller/CompetitionSearchViewController.h
+END
+WorklogListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogListViewController.h
+END
+TouchTableViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/Controller/TouchTableViewDelegate.h
+END
+CycleTaskViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/15345/trunk/telecom/iOS/SalesManager/Class/Controller/CycleTaskViewController.h
+END
+CustomerDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/16623/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerDetailViewController.h
+END
+CompetitionSearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repo/winetone/!svn/ver/22132/trunk/telecom/iOS/SalesManager/Class/Controller/CompetitionSearchViewController.m
+END
+WorklogListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/25418/trunk/telecom/iOS/SalesManager/Class/Controller/WorklogListViewController.m
+END
+GiftPageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/16526/trunk/telecom/iOS/SalesManager/Class/Controller/GiftPageViewController.h
+END
+CompetitionListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/Controller/CompetitionListViewController.h
+END
+CycleTaskViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/22944/trunk/telecom/iOS/SalesManager/Class/Controller/CycleTaskViewController.m
+END
+DashboardViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/20670/trunk/telecom/iOS/SalesManager/Class/Controller/DashboardViewController.h
+END
+AttendanceDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/Controller/AttendanceDetailViewController.h
+END
+CustomerDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/26748/trunk/telecom/iOS/SalesManager/Class/Controller/CustomerDetailViewController.m
+END

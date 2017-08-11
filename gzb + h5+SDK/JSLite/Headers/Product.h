@@ -1,0 +1,50 @@
+//
+//  Product.h
+//  JSLite
+//
+
+#ifndef JSLite_Product_h
+#define JSLite_Product_h
+
+#define TELECOM
+//#define PRODUCT_TEST
+
+#define SERVER_DOMAIN @".192.168.1.22"
+#define SERVER_URL @"192.168.1.22"
+#define CONTEXT_PATH @"telecom_mobile"
+#define UPDATE_URL @"192.168.1.22/telecom_backend"
+
+
+#pragma mark - Proudction Server URL
+
+#define HTTP_LOGIN_SERVER [NSString stringWithFormat:@"http://%@/%@/login.rpc",SERVER_URL,CONTEXT_PATH]
+#define HTTP_LOGOUT_SERVER [NSString stringWithFormat:@"http://%@/%@/logout.rpc",SERVER_URL,CONTEXT_PATH]
+#define HTTP_SERVER [NSString stringWithFormat:@"http://%@/%@/bin.rpc",SERVER_URL,CONTEXT_PATH]
+#define WS_SERVER [NSString stringWithFormat:@"ws://%@/%@/subscribe.ws",SERVER_URL,CONTEXT_PATH]
+
+#define SALE_URL [NSString stringWithFormat:@"http://%@/%@/mobile/sale.jhtml",SERVER_URL,CONTEXT_PATH]
+#define ANNOUNCE_URL [NSString stringWithFormat:@"https://%@/%@/announcement/preview.jhtml",SERVER_URL,CONTEXT_PATH]
+#define SPACE_URL [NSString stringWithFormat:@"https://%@/%@/companyspace/preview.jhtml",SERVER_URL,CONTEXT_PATH]
+//测试
+#ifdef PRODUCT_TEST
+#define APP_PLIST_URL [NSString stringWithFormat:@"http://%@/f/v/wtTest.plist",UPDATE_URL]
+#define APP_URL ([[[UIDevice currentDevice] systemVersion] floatValue] > 7.070000) ? [NSString stringWithFormat:@"itms-services:///?action=download-manifest&url=https://%@/f/v/wtTest.plist",UPDATE_URL] : [NSString stringWithFormat:@"itms-services:///?action=download-manifest&url=http://%@/f/v/wtTest.plist",UPDATE_URL]
+#else
+//线上
+#define APP_PLIST_URL [NSString stringWithFormat:@"http://%@/f/v/wt.plist",UPDATE_URL]
+#define APP_URL ([[[UIDevice currentDevice] systemVersion] floatValue] > 7.070000) ? [NSString stringWithFormat:@"itms-services:///?action=download-manifest&url=https://%@/f/v/wt.plist",UPDATE_URL] : [NSString stringWithFormat:@"itms-services:///?action=download-manifest&url=http://%@/f/v/wt.plist",UPDATE_URL]
+#endif
+
+#define BAIDU_NAV @"baidumap://map/direction?origin=latlng:%f,%f|name:我的位置&destination=latlng:%f,%f|name:终点&mode=driving"
+#define TRACK_TIMELINE_URL  @"track/timeline.jhtml?date=%@&userid=%d&username=%@&pwd=%@"
+#define TRACK_MAP_URL @"track/map.jhtml?date=%@&userid=%d&username=%@&pwd=%@"
+#define CUSTOEMR_MAP_URL @"customer/location.jhtml?cusid=%d&username=%@&pwd=%@"
+#define CUSTOEMR_MAP_TAGGING_URL @"customer/setLocation.jhtml?latitude=%@&longitude=%@"
+
+//订单上报地址
+#define ORDER_URL @"/product/index.jhtml"
+//订单列表地址
+#define ORDER_LIST_URL @"/order/index.jhtml"
+#define USER_ORDER_LIST_URL(userId) [NSString stringWithFormat:@"/order/index.jhtml?userId=%d",userId]
+#define CUSTOMER_ORDER_LIST_URL(customerId) [NSString stringWithFormat:@"/order/index.jhtml?customerId=%d",customerId]
+#endif

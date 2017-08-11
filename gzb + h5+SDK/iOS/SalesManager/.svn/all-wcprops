@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo/winetone/!svn/ver/27224/trunk/telecom/iOS/SalesManager
+END
+Constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/winetone/!svn/ver/22868/trunk/telecom/iOS/SalesManager/Constant.h
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/winetone/!svn/ver/18448/trunk/telecom/iOS/SalesManager/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/winetone/!svn/ver/25215/trunk/telecom/iOS/SalesManager/AppDelegate.h
+END
+AppDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/winetone/!svn/ver/26805/trunk/telecom/iOS/SalesManager/AppDelegate.mm
+END
+ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/ViewController.h
+END
+SalesManager-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/26740/trunk/telecom/iOS/SalesManager/SalesManager-Info.plist
+END
+SalesManager-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/16893/trunk/telecom/iOS/SalesManager/SalesManager-Prefix.pch
+END
+ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/ViewController.m
+END
+SalesManager.entitlements
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/24893/trunk/telecom/iOS/SalesManager/SalesManager.entitlements
+END

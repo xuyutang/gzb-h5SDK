@@ -1,0 +1,1505 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/winetone/!svn/ver/27218/trunk/telecom/iOS/SalesManager/Class/View
+END
+TextFieldCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/TextFieldCell.m
+END
+CustomerListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/20589/trunk/telecom/iOS/SalesManager/Class/View/CustomerListCell.h
+END
+PatrolTypeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/PatrolTypeView.h
+END
+ProfileCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/15258/trunk/telecom/iOS/SalesManager/Class/View/ProfileCell.h
+END
+ProgressButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/26703/trunk/telecom/iOS/SalesManager/Class/View/ProgressButton.h
+END
+PatrolCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/PatrolCell.h
+END
+WifiAttenceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/24665/trunk/telecom/iOS/SalesManager/Class/View/WifiAttenceCell.h
+END
+CustomerListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/21301/trunk/telecom/iOS/SalesManager/Class/View/CustomerListCell.m
+END
+PatrolTypeView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/PatrolTypeView.m
+END
+ApplyItemCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/22043/trunk/telecom/iOS/SalesManager/Class/View/ApplyItemCell.h
+END
+ProfileCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/15258/trunk/telecom/iOS/SalesManager/Class/View/ProfileCell.m
+END
+ProgressButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/26703/trunk/telecom/iOS/SalesManager/Class/View/ProgressButton.m
+END
+PatrolCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/PatrolCell.m
+END
+WifiAttenceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/24665/trunk/telecom/iOS/SalesManager/Class/View/WifiAttenceCell.m
+END
+ZoneSegmentedControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/ZoneSegmentedControl.h
+END
+ApplyItemCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/22043/trunk/telecom/iOS/SalesManager/Class/View/ApplyItemCell.m
+END
+UploadVideoCellTableViewCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/winetone/!svn/ver/17887/trunk/telecom/iOS/SalesManager/Class/View/UploadVideoCellTableViewCell.xib
+END
+GZBWebView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/View/GZBWebView.h
+END
+NewCustomerCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/NewCustomerCell.h
+END
+CustomerInputView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/16419/trunk/telecom/iOS/SalesManager/Class/View/CustomerInputView.h
+END
+PICircularProgressView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/14891/trunk/telecom/iOS/SalesManager/Class/View/PICircularProgressView.h
+END
+ZoneSegmentedControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/ZoneSegmentedControl.m
+END
+SelectedTagCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/View/SelectedTagCell.xib
+END
+GZBWebView.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/27218/trunk/telecom/iOS/SalesManager/Class/View/GZBWebView.m
+END
+NewCustomerCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/NewCustomerCell.m
+END
+CustomerInputView.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/16419/trunk/telecom/iOS/SalesManager/Class/View/CustomerInputView.m
+END
+PICircularProgressView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/15099/trunk/telecom/iOS/SalesManager/Class/View/PICircularProgressView.m
+END
+PatrolSearchView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/PatrolSearchView.h
+END
+SMTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/16461/trunk/telecom/iOS/SalesManager/Class/View/SMTableView.h
+END
+ChangeDateTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/24106/trunk/telecom/iOS/SalesManager/Class/View/ChangeDateTableViewCell.h
+END
+PatrolSearchView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/20332/trunk/telecom/iOS/SalesManager/Class/View/PatrolSearchView.m
+END
+SMTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/SMTableView.m
+END
+BusinessOpportunityCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/21920/trunk/telecom/iOS/SalesManager/Class/View/BusinessOpportunityCell.h
+END
+CustomerCategoryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/CustomerCategoryView.h
+END
+ChangeDateTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/24106/trunk/telecom/iOS/SalesManager/Class/View/ChangeDateTableViewCell.m
+END
+BusinessOpportunityCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/21920/trunk/telecom/iOS/SalesManager/Class/View/BusinessOpportunityCell.m
+END
+DatePicker2.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/24100/trunk/telecom/iOS/SalesManager/Class/View/DatePicker2.h
+END
+InputCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/InputCell.h
+END
+CustomerCategoryView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/CustomerCategoryView.m
+END
+NewCustomerBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/NewCustomerBar.h
+END
+VideoListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/22047/trunk/telecom/iOS/SalesManager/Class/View/VideoListCell.h
+END
+DatePicker2.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/24100/trunk/telecom/iOS/SalesManager/Class/View/DatePicker2.m
+END
+InputCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/InputCell.m
+END
+PatrolPostTypeCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/View/PatrolPostTypeCell.xib
+END
+NewCustomerBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/NewCustomerBar.m
+END
+UploadVideoCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/18468/trunk/telecom/iOS/SalesManager/Class/View/UploadVideoCell.xib
+END
+VideoCustomerDetailCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/18519/trunk/telecom/iOS/SalesManager/Class/View/VideoCustomerDetailCell.xib
+END
+NewCustomerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/17087/trunk/telecom/iOS/SalesManager/Class/View/NewCustomerView.h
+END
+TagButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/20597/trunk/telecom/iOS/SalesManager/Class/View/TagButton.h
+END
+VideoListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/22047/trunk/telecom/iOS/SalesManager/Class/View/VideoListCell.m
+END
+NearPersonCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/View/NearPersonCell.xib
+END
+PatrolPostTypeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/View/PatrolPostTypeCell.h
+END
+AlarmItemCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/17034/trunk/telecom/iOS/SalesManager/Class/View/AlarmItemCell.h
+END
+NewCustomerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/NewCustomerView.m
+END
+TagButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/20847/trunk/telecom/iOS/SalesManager/Class/View/TagButton.m
+END
+IMGCommentDetailView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/18790/trunk/telecom/iOS/SalesManager/Class/View/IMGCommentDetailView.h
+END
+PatrolPostTypeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/View/PatrolPostTypeCell.m
+END
+OrderHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/OrderHeaderView.h
+END
+ExpandCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/22181/trunk/telecom/iOS/SalesManager/Class/View/ExpandCell.h
+END
+AlarmItemCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/17034/trunk/telecom/iOS/SalesManager/Class/View/AlarmItemCell.m
+END
+ProductCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/ProductCell.h
+END
+Task0Cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/17087/trunk/telecom/iOS/SalesManager/Class/View/Task0Cell.h
+END
+IMGCommentDetailView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/16756/trunk/telecom/iOS/SalesManager/Class/View/IMGCommentDetailView.m
+END
+OrderHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/OrderHeaderView.m
+END
+PlaceTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/18514/trunk/telecom/iOS/SalesManager/Class/View/PlaceTextView.h
+END
+ExpandCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/22181/trunk/telecom/iOS/SalesManager/Class/View/ExpandCell.m
+END
+ProductCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/ProductCell.m
+END
+Task0Cell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/17087/trunk/telecom/iOS/SalesManager/Class/View/Task0Cell.m
+END
+CommonCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/View/CommonCell.h
+END
+DropMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/16183/trunk/telecom/iOS/SalesManager/Class/View/DropMenu.h
+END
+PlaceTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/PlaceTextView.m
+END
+PatrolDetailReplyCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/26369/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailReplyCell.xib
+END
+UIColor+hex.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/23074/trunk/telecom/iOS/SalesManager/Class/View/UIColor+hex.h
+END
+CommonCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/View/CommonCell.m
+END
+WifiAttenceCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/24835/trunk/telecom/iOS/SalesManager/Class/View/WifiAttenceCell.xib
+END
+DropMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/16257/trunk/telecom/iOS/SalesManager/Class/View/DropMenu.m
+END
+CustomerTypeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/CustomerTypeView.h
+END
+UIColor+hex.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/23074/trunk/telecom/iOS/SalesManager/Class/View/UIColor+hex.m
+END
+CustomerTypeView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/CustomerTypeView.m
+END
+TMPhotoQuiltViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/TMPhotoQuiltViewCell.h
+END
+AttendanceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/AttendanceCell.h
+END
+HeaderSearchDateView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/16630/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchDateView.h
+END
+TMPhotoQuiltViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/TMPhotoQuiltViewCell.m
+END
+MyInfoItemCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/View/MyInfoItemCell.xib
+END
+AttendanceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/AttendanceCell.m
+END
+HeaderSearchDateView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/17034/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchDateView.m
+END
+PatrolSearchView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/18044/trunk/telecom/iOS/SalesManager/Class/View/PatrolSearchView.xib
+END
+TextViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/18514/trunk/telecom/iOS/SalesManager/Class/View/TextViewCell.h
+END
+ChangeDateTableViewCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/24787/trunk/telecom/iOS/SalesManager/Class/View/ChangeDateTableViewCell.xib
+END
+TextViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/18514/trunk/telecom/iOS/SalesManager/Class/View/TextViewCell.m
+END
+SelectedTagCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/SelectedTagCell.h
+END
+EScrollerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/EScrollerView.h
+END
+SelectedTagCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/SelectedTagCell.m
+END
+EScrollerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/17535/trunk/telecom/iOS/SalesManager/Class/View/EScrollerView.m
+END
+WifiListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/24147/trunk/telecom/iOS/SalesManager/Class/View/WifiListCell.h
+END
+HeaderSearchBarWithTag.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/26405/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchBarWithTag.h
+END
+VideoListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/22047/trunk/telecom/iOS/SalesManager/Class/View/VideoListCell.xib
+END
+WifiListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/24147/trunk/telecom/iOS/SalesManager/Class/View/WifiListCell.m
+END
+HeaderSearchBarWithTag.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/26405/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchBarWithTag.m
+END
+SettingsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/SettingsCell.h
+END
+CustomerFunctionCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/20967/trunk/telecom/iOS/SalesManager/Class/View/CustomerFunctionCell.xib
+END
+LiveImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/22715/trunk/telecom/iOS/SalesManager/Class/View/LiveImageCell.h
+END
+SettingsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/18309/trunk/telecom/iOS/SalesManager/Class/View/SettingsCell.m
+END
+LiveImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/22808/trunk/telecom/iOS/SalesManager/Class/View/LiveImageCell.m
+END
+CustomerInfoCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/23189/trunk/telecom/iOS/SalesManager/Class/View/CustomerInfoCell.xib
+END
+DashboardTableHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/15745/trunk/telecom/iOS/SalesManager/Class/View/DashboardTableHeader.h
+END
+BaseTable2HeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/22034/trunk/telecom/iOS/SalesManager/Class/View/BaseTable2HeaderView.h
+END
+LocationCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/LocationCell.h
+END
+DateSelectView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/DateSelectView.h
+END
+BaseTable4HeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/21983/trunk/telecom/iOS/SalesManager/Class/View/BaseTable4HeaderView.h
+END
+NearPersonCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/17218/trunk/telecom/iOS/SalesManager/Class/View/NearPersonCell.h
+END
+NewTaskCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/NewTaskCell.h
+END
+BaseTable2HeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/22034/trunk/telecom/iOS/SalesManager/Class/View/BaseTable2HeaderView.m
+END
+DashboardTableHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/15745/trunk/telecom/iOS/SalesManager/Class/View/DashboardTableHeader.m
+END
+LocationCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/27108/trunk/telecom/iOS/SalesManager/Class/View/LocationCell.m
+END
+DateSelectView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/DateSelectView.m
+END
+CustomerInfoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/16623/trunk/telecom/iOS/SalesManager/Class/View/CustomerInfoCell.h
+END
+BaseTable4HeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/21983/trunk/telecom/iOS/SalesManager/Class/View/BaseTable4HeaderView.m
+END
+SelectedTagView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/SelectedTagView.h
+END
+ProductFilterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/20927/trunk/telecom/iOS/SalesManager/Class/View/ProductFilterViewController.xib
+END
+NearPersonCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/17218/trunk/telecom/iOS/SalesManager/Class/View/NearPersonCell.m
+END
+NewTaskCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/NewTaskCell.m
+END
+CustomerInfoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/16623/trunk/telecom/iOS/SalesManager/Class/View/CustomerInfoCell.m
+END
+IconButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/IconButton.h
+END
+SelectedTagView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/SelectedTagView.m
+END
+ProductFilterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/20847/trunk/telecom/iOS/SalesManager/Class/View/ProductFilterViewController.h
+END
+IconButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/IconButton.m
+END
+ProductFilterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/21301/trunk/telecom/iOS/SalesManager/Class/View/ProductFilterViewController.m
+END
+BottomButtonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/18222/trunk/telecom/iOS/SalesManager/Class/View/BottomButtonView.h
+END
+BottomBtnBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/17875/trunk/telecom/iOS/SalesManager/Class/View/BottomBtnBar.h
+END
+BottomButtonView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/18222/trunk/telecom/iOS/SalesManager/Class/View/BottomButtonView.m
+END
+PatrolDetailReplyCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/16567/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailReplyCell.h
+END
+BottomBtnBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/17875/trunk/telecom/iOS/SalesManager/Class/View/BottomBtnBar.m
+END
+MainTopView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/22167/trunk/telecom/iOS/SalesManager/Class/View/MainTopView.h
+END
+PickerVideoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/21865/trunk/telecom/iOS/SalesManager/Class/View/PickerVideoCell.h
+END
+PatrolDetailReplyCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/16567/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailReplyCell.m
+END
+PatrolDetailCustomerCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/16567/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailCustomerCell.h
+END
+MainTopView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/22167/trunk/telecom/iOS/SalesManager/Class/View/MainTopView.m
+END
+HeaderSearchView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/16630/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchView.h
+END
+PatrolTableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/View/PatrolTableCell.h
+END
+PickerVideoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/23207/trunk/telecom/iOS/SalesManager/Class/View/PickerVideoCell.m
+END
+GZBTagList.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/View/GZBTagList.h
+END
+OrderCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/OrderCell.h
+END
+OrderFilterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/24950/trunk/telecom/iOS/SalesManager/Class/View/OrderFilterViewController.xib
+END
+PatrolDetailCustomerCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/16567/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailCustomerCell.m
+END
+OrderProductCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/OrderProductCell.h
+END
+TitleLableCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/TitleLableCell.xib
+END
+CustomerContactCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/21658/trunk/telecom/iOS/SalesManager/Class/View/CustomerContactCell.h
+END
+HeaderSearchView.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/17201/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchView.m
+END
+PatrolTableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/20626/trunk/telecom/iOS/SalesManager/Class/View/PatrolTableCell.m
+END
+GZBTagList.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/20753/trunk/telecom/iOS/SalesManager/Class/View/GZBTagList.m
+END
+SelectCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/SelectCell.h
+END
+MyInfoTopCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/22167/trunk/telecom/iOS/SalesManager/Class/View/MyInfoTopCell.xib
+END
+MessageCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/MessageCell.xib
+END
+MyInfoItemCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/16291/trunk/telecom/iOS/SalesManager/Class/View/MyInfoItemCell.h
+END
+OrderCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/OrderCell.m
+END
+OrderProductCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/15450/trunk/telecom/iOS/SalesManager/Class/View/OrderProductCell.m
+END
+TitleLableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/TitleLableCell.h
+END
+InspectionTargetCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/21658/trunk/telecom/iOS/SalesManager/Class/View/InspectionTargetCell.h
+END
+CompanyContactCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/CompanyContactCell.h
+END
+CustomerContactCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/21658/trunk/telecom/iOS/SalesManager/Class/View/CustomerContactCell.m
+END
+SelectCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/SelectCell.m
+END
+MyInfoItemCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/16291/trunk/telecom/iOS/SalesManager/Class/View/MyInfoItemCell.m
+END
+WifiListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/24451/trunk/telecom/iOS/SalesManager/Class/View/WifiListCell.xib
+END
+TitleLableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/TitleLableCell.m
+END
+InspectionTargetCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/21658/trunk/telecom/iOS/SalesManager/Class/View/InspectionTargetCell.m
+END
+CompanyContactCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/CompanyContactCell.m
+END
+GiftProductCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12683/trunk/telecom/iOS/SalesManager/Class/View/GiftProductCell.h
+END
+DBMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/16837/trunk/telecom/iOS/SalesManager/Class/View/DBMessageCell.h
+END
+OrderFloatButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/20258/trunk/telecom/iOS/SalesManager/Class/View/OrderFloatButton.h
+END
+GiftProductCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12863/trunk/telecom/iOS/SalesManager/Class/View/GiftProductCell.m
+END
+DBMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/16837/trunk/telecom/iOS/SalesManager/Class/View/DBMessageCell.m
+END
+OrderFloatButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/20258/trunk/telecom/iOS/SalesManager/Class/View/OrderFloatButton.m
+END
+TaskCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/14891/trunk/telecom/iOS/SalesManager/Class/View/TaskCell.h
+END
+DateReportCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/22928/trunk/telecom/iOS/SalesManager/Class/View/DateReportCell.xib
+END
+AlarmItemCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Class/View/AlarmItemCell.xib
+END
+TaskCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/14891/trunk/telecom/iOS/SalesManager/Class/View/TaskCell.m
+END
+SyncButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/20670/trunk/telecom/iOS/SalesManager/Class/View/SyncButton.h
+END
+DateReportCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/22514/trunk/telecom/iOS/SalesManager/Class/View/DateReportCell.h
+END
+UploadVideoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/UploadVideoCell.h
+END
+VideoCustomerDetailCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/VideoCustomerDetailCell.h
+END
+OrderTageFilterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/winetone/!svn/ver/20332/trunk/telecom/iOS/SalesManager/Class/View/OrderTageFilterViewController.xib
+END
+GiftProductsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/12902/trunk/telecom/iOS/SalesManager/Class/View/GiftProductsCell.h
+END
+SyncButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/21658/trunk/telecom/iOS/SalesManager/Class/View/SyncButton.m
+END
+DateReportCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/22514/trunk/telecom/iOS/SalesManager/Class/View/DateReportCell.m
+END
+HeaderSearchNearView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/17201/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchNearView.h
+END
+UploadVideoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/UploadVideoCell.m
+END
+VideoCustomerDetailCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/VideoCustomerDetailCell.m
+END
+OrderTageFilterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/20332/trunk/telecom/iOS/SalesManager/Class/View/OrderTageFilterViewController.h
+END
+TopicImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/16567/trunk/telecom/iOS/SalesManager/Class/View/TopicImageCell.h
+END
+GiftProductsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/GiftProductsCell.m
+END
+HeaderSearchNearView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/17201/trunk/telecom/iOS/SalesManager/Class/View/HeaderSearchNearView.m
+END
+OrderTageFilterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/20568/trunk/telecom/iOS/SalesManager/Class/View/OrderTageFilterViewController.m
+END
+TopicImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/17535/trunk/telecom/iOS/SalesManager/Class/View/TopicImageCell.m
+END
+SWLableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/21102/trunk/telecom/iOS/SalesManager/Class/View/SWLableCell.h
+END
+IMGCommentView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/22433/trunk/telecom/iOS/SalesManager/Class/View/IMGCommentView.h
+END
+MainTopView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/23075/trunk/telecom/iOS/SalesManager/Class/View/MainTopView.xib
+END
+SWLableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/21102/trunk/telecom/iOS/SalesManager/Class/View/SWLableCell.m
+END
+FavCustomerCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/21039/trunk/telecom/iOS/SalesManager/Class/View/FavCustomerCell.h
+END
+IMGCommentView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/22433/trunk/telecom/iOS/SalesManager/Class/View/IMGCommentView.m
+END
+PatrolDetailCustomerCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/17920/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailCustomerCell.xib
+END
+FavCustomerCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/22153/trunk/telecom/iOS/SalesManager/Class/View/FavCustomerCell.m
+END
+CommonPhrasesTextViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/19006/trunk/telecom/iOS/SalesManager/Class/View/CommonPhrasesTextViewCell.h
+END
+UploadVideoCellTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/17887/trunk/telecom/iOS/SalesManager/Class/View/UploadVideoCellTableViewCell.h
+END
+OrderFilterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/20890/trunk/telecom/iOS/SalesManager/Class/View/OrderFilterViewController.h
+END
+CommonPhrasesTextViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/26796/trunk/telecom/iOS/SalesManager/Class/View/CommonPhrasesTextViewCell.m
+END
+StockCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/StockCell.h
+END
+UploadVideoCellTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/winetone/!svn/ver/17887/trunk/telecom/iOS/SalesManager/Class/View/UploadVideoCellTableViewCell.m
+END
+MyInfoTopCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/21974/trunk/telecom/iOS/SalesManager/Class/View/MyInfoTopCell.h
+END
+MessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/16727/trunk/telecom/iOS/SalesManager/Class/View/MessageCell.h
+END
+StockProductCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/StockProductCell.h
+END
+WorkLogCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/21936/trunk/telecom/iOS/SalesManager/Class/View/WorkLogCell.h
+END
+SaleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/16727/trunk/telecom/iOS/SalesManager/Class/View/SaleCell.h
+END
+OrderFilterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/27118/trunk/telecom/iOS/SalesManager/Class/View/OrderFilterViewController.m
+END
+TagItemView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/TagItemView.h
+END
+PatrolDetailHeader.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/21852/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailHeader.xib
+END
+StockCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/StockCell.m
+END
+MyInfoTopCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/21974/trunk/telecom/iOS/SalesManager/Class/View/MyInfoTopCell.m
+END
+MessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/16727/trunk/telecom/iOS/SalesManager/Class/View/MessageCell.m
+END
+StockProductCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/15450/trunk/telecom/iOS/SalesManager/Class/View/StockProductCell.m
+END
+WorkLogCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/21936/trunk/telecom/iOS/SalesManager/Class/View/WorkLogCell.m
+END
+SaleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/SaleCell.m
+END
+TagItemView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/15991/trunk/telecom/iOS/SalesManager/Class/View/TagItemView.m
+END
+PlayVideoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/View/PlayVideoCell.h
+END
+PatrolDetailHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/16567/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailHeader.h
+END
+MainMenuSection.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/MainMenuSection.h
+END
+PlayVideoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/19514/trunk/telecom/iOS/SalesManager/Class/View/PlayVideoCell.m
+END
+PatrolDetailHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/16567/trunk/telecom/iOS/SalesManager/Class/View/PatrolDetailHeader.m
+END
+MainMenuSection.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/MainMenuSection.m
+END
+CategoryPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/20753/trunk/telecom/iOS/SalesManager/Class/View/CategoryPickerView.h
+END
+CustomerFunctionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/16291/trunk/telecom/iOS/SalesManager/Class/View/CustomerFunctionCell.h
+END
+BaseTable1HeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/21983/trunk/telecom/iOS/SalesManager/Class/View/BaseTable1HeaderView.h
+END
+MainMenuCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/15258/trunk/telecom/iOS/SalesManager/Class/View/MainMenuCell.h
+END
+GiftProductItemCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/12902/trunk/telecom/iOS/SalesManager/Class/View/GiftProductItemCell.h
+END
+BaseTable3HeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/22034/trunk/telecom/iOS/SalesManager/Class/View/BaseTable3HeaderView.h
+END
+PopInputView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/PopInputView.h
+END
+CategoryPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/20753/trunk/telecom/iOS/SalesManager/Class/View/CategoryPickerView.m
+END
+DatePicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/DatePicker.h
+END
+BaseTable1HeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/21983/trunk/telecom/iOS/SalesManager/Class/View/BaseTable1HeaderView.m
+END
+CustomerFunctionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/23104/trunk/telecom/iOS/SalesManager/Class/View/CustomerFunctionCell.m
+END
+MainMenuCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/15258/trunk/telecom/iOS/SalesManager/Class/View/MainMenuCell.m
+END
+GiftProductItemCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/12902/trunk/telecom/iOS/SalesManager/Class/View/GiftProductItemCell.m
+END
+BaseTable3HeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/BaseTable3HeaderView.m
+END
+PopInputView.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/PopInputView.m
+END
+LableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/21102/trunk/telecom/iOS/SalesManager/Class/View/LableCell.h
+END
+DatePicker.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/winetone/!svn/ver/22773/trunk/telecom/iOS/SalesManager/Class/View/DatePicker.m
+END
+CommonPhrasesCellHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/19871/trunk/telecom/iOS/SalesManager/Class/View/CommonPhrasesCellHeaderView.h
+END
+LableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/winetone/!svn/ver/27084/trunk/telecom/iOS/SalesManager/Class/View/LableCell.m
+END
+CommonPhrasesCellHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/26651/trunk/telecom/iOS/SalesManager/Class/View/CommonPhrasesCellHeaderView.m
+END
+TextFieldCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Class/View/TextFieldCell.h
+END

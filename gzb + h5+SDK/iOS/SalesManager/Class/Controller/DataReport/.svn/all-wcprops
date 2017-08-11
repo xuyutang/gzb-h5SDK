@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/27126/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport
+END
+DataReportModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22715/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportModel.m
+END
+DataReportListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repo/winetone/!svn/ver/22514/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportListViewController.xib
+END
+DataReportDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repo/winetone/!svn/ver/23194/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportDetailViewController.m
+END
+DataReportMenuBtn.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/23192/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportMenuBtn.h
+END
+DataReportListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/22633/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportListViewController.h
+END
+DataReportMenuBtn.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repo/winetone/!svn/ver/23192/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportMenuBtn.m
+END
+DataReportViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/23194/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportViewController.h
+END
+DataReportListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/25445/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportListViewController.m
+END
+PaperViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/22612/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/PaperViewController.h
+END
+DataReportTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/22609/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportTypeViewController.h
+END
+DataReportViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/27126/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportViewController.m
+END
+PaperViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/23217/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/PaperViewController.m
+END
+DataReportTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/22655/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportTypeViewController.m
+END
+DataReportModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/winetone/!svn/ver/22757/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportModel.h
+END
+DataReportDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repo/winetone/!svn/ver/23194/trunk/telecom/iOS/SalesManager/Class/Controller/DataReport/DataReportDetailViewController.h
+END

@@ -1,0 +1,10 @@
+//Dashboard
+"hint_info"="向导会帮助您尽快熟悉该应用程序，点击屏幕提示下一步操作。";
+"hint_dashboard_person"="此处显示登陆用户的个人资料。";
+"hint_dashboard_menu_more"="点击此处显示更多功能项。";
+"hint_dashboard_item"="点击该按钮直接进入功能页面。";
+
+//Attendance
+"hint_gps"="此处显示当前地理位置。";
+"error_account_expired"="帐号已过期，请重新登录！";
+"server_bad_error"="服务器维护中，请稍后访问，给您造成不便，敬请谅解！";

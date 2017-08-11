@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B9D698C4-E2C5-4F81-A087-B86544B76595</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SalesManager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>417A6D28-7D1A-4586-BC80-422B64FC92ED</key>
+		<string>http://60.166.36.66/repo/winetone/trunk/telecom/iOS</string>
+		<key>7E7345F8-C852-46E5-B460-05DD2285722D</key>
+		<string>http://60.166.36.66/repo/winetone/thirdparty/ios_lite_library</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SalesManager.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>417A6D28-7D1A-4586-BC80-422B64FC92ED</key>
+		<string>../..</string>
+		<key>7E7345F8-C852-46E5-B460-05DD2285722D</key>
+		<string>../../../jslite</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>417A6D28-7D1A-4586-BC80-422B64FC92ED</key>
+		<string>http://cn.ufinity.com@60.166.36.66/repo/winetone</string>
+		<key>7E7345F8-C852-46E5-B460-05DD2285722D</key>
+		<string>http://cn.ufinity.com@60.166.36.66/repo/winetone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://cn.ufinity.com@60.166.36.66/repo/winetone/trunk/telecom/iOS/SalesManager.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>417A6D28-7D1A-4586-BC80-422B64FC92ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E7345F8-C852-46E5-B460-05DD2285722D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jslite</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>417A6D28-7D1A-4586-BC80-422B64FC92ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>telecom_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

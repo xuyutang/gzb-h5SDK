@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/winetone/!svn/ver/26826/trunk/telecom/iOS/SalesManager/Resource/xib
+END
+PatrolCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/22145/trunk/telecom/iOS/SalesManager/Resource/xib/PatrolCell.xib
+END
+ApplyItemCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/22043/trunk/telecom/iOS/SalesManager/Resource/xib/ApplyItemCell.xib
+END
+_BaseTable3HeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/winetone/!svn/ver/15745/trunk/telecom/iOS/SalesManager/Resource/xib/_BaseTable3HeaderView.xib
+END
+PatrolTableCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/23197/trunk/telecom/iOS/SalesManager/Resource/xib/PatrolTableCell.xib
+END
+OrderCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Resource/xib/OrderCell.xib
+END
+NewCustomerCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/17087/trunk/telecom/iOS/SalesManager/Resource/xib/NewCustomerCell.xib
+END
+OrderProductCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/15099/trunk/telecom/iOS/SalesManager/Resource/xib/OrderProductCell.xib
+END
+CustomerContactCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/21808/trunk/telecom/iOS/SalesManager/Resource/xib/CustomerContactCell.xib
+END
+SelectCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/26826/trunk/telecom/iOS/SalesManager/Resource/xib/SelectCell.xib
+END
+InspectionTargetCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/21658/trunk/telecom/iOS/SalesManager/Resource/xib/InspectionTargetCell.xib
+END
+CompanyContactCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/winetone/!svn/ver/18440/trunk/telecom/iOS/SalesManager/Resource/xib/CompanyContactCell.xib
+END
+StockCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Resource/xib/StockCell.xib
+END
+SaleCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/22150/trunk/telecom/iOS/SalesManager/Resource/xib/SaleCell.xib
+END
+StockProductCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Resource/xib/StockProductCell.xib
+END
+WorkLogCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/21941/trunk/telecom/iOS/SalesManager/Resource/xib/WorkLogCell.xib
+END
+BusinessOpportunityCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/26816/trunk/telecom/iOS/SalesManager/Resource/xib/BusinessOpportunityCell.xib
+END
+CustomerCategoryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/14891/trunk/telecom/iOS/SalesManager/Resource/xib/CustomerCategoryView.xib
+END
+DBMessageCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/24032/trunk/telecom/iOS/SalesManager/Resource/xib/DBMessageCell.xib
+END
+ProfileView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/15258/trunk/telecom/iOS/SalesManager/Resource/xib/ProfileView.xib
+END
+MainMenuSection.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/15099/trunk/telecom/iOS/SalesManager/Resource/xib/MainMenuSection.xib
+END
+InputCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/23140/trunk/telecom/iOS/SalesManager/Resource/xib/InputCell.xib
+END
+NewCustomerBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Resource/xib/NewCustomerBar.xib
+END
+SettingsCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/26816/trunk/telecom/iOS/SalesManager/Resource/xib/SettingsCell.xib
+END
+TaskStatusView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/winetone/!svn/ver/15099/trunk/telecom/iOS/SalesManager/Resource/xib/TaskStatusView.xib
+END
+LiveImageCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Resource/xib/LiveImageCell.xib
+END
+TaskCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/winetone/!svn/ver/17201/trunk/telecom/iOS/SalesManager/Resource/xib/TaskCell.xib
+END
+NewCustomerView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/17875/trunk/telecom/iOS/SalesManager/Resource/xib/NewCustomerView.xib
+END
+Attendance.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/24486/trunk/telecom/iOS/SalesManager/Resource/xib/Attendance.xib
+END
+BaseTable1HeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/22278/trunk/telecom/iOS/SalesManager/Resource/xib/BaseTable1HeaderView.xib
+END
+LocationCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/26794/trunk/telecom/iOS/SalesManager/Resource/xib/LocationCell.xib
+END
+BaseTable2HeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/22278/trunk/telecom/iOS/SalesManager/Resource/xib/BaseTable2HeaderView.xib
+END
+DashboardTableHeader.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/17835/trunk/telecom/iOS/SalesManager/Resource/xib/DashboardTableHeader.xib
+END
+SyncButton.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/26703/trunk/telecom/iOS/SalesManager/Resource/xib/SyncButton.xib
+END
+MainMenuCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repo/winetone/!svn/ver/15258/trunk/telecom/iOS/SalesManager/Resource/xib/MainMenuCell.xib
+END
+BaseTable3HeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/22278/trunk/telecom/iOS/SalesManager/Resource/xib/BaseTable3HeaderView.xib
+END
+GiftProductItemCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repo/winetone/!svn/ver/12905/trunk/telecom/iOS/SalesManager/Resource/xib/GiftProductItemCell.xib
+END
+BaseTable4HeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/22058/trunk/telecom/iOS/SalesManager/Resource/xib/BaseTable4HeaderView.xib
+END
+NewTaskCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/22156/trunk/telecom/iOS/SalesManager/Resource/xib/NewTaskCell.xib
+END
+GiftProductsCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/16825/trunk/telecom/iOS/SalesManager/Resource/xib/GiftProductsCell.xib
+END
+OrderHeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Resource/xib/OrderHeaderView.xib
+END
+ProductCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/winetone/!svn/ver/21102/trunk/telecom/iOS/SalesManager/Resource/xib/ProductCell.xib
+END
+Task0Cell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/22033/trunk/telecom/iOS/SalesManager/Resource/xib/Task0Cell.xib
+END
+TaskCell2.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/winetone/!svn/ver/12526/trunk/telecom/iOS/SalesManager/Resource/xib/TaskCell2.xib
+END
+CommonCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/15099/trunk/telecom/iOS/SalesManager/Resource/xib/CommonCell.xib
+END
+TextFieldCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/winetone/!svn/ver/21920/trunk/telecom/iOS/SalesManager/Resource/xib/TextFieldCell.xib
+END
+CustomerListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/winetone/!svn/ver/20224/trunk/telecom/iOS/SalesManager/Resource/xib/CustomerListCell.xib
+END

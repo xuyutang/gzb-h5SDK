@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore
+END
+NSObject+Swizzle.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/NSObject+Swizzle.h
+END
+SafeKitConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/SafeKitConfig.h
+END
+SafeKitLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/SafeKitLog.m
+END
+SafeKitMacro.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/SafeKitMacro.m
+END
+NSObject+Swizzle.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/NSObject+Swizzle.m
+END
+SafeKitCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/SafeKitCore.h
+END
+NSException+SafeKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/NSException+SafeKit.h
+END
+SafeKitConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/SafeKitConfig.m
+END
+NSException+SafeKit.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/NSException+SafeKit.m
+END
+SafeKitLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/SafeKitLog.h
+END
+SafeKitMacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repo/winetone/!svn/ver/27134/trunk/telecom/iOS/SalesManager/Class/View/CommonTool/DurexKit/SafeCore/SafeKitMacro.h
+END

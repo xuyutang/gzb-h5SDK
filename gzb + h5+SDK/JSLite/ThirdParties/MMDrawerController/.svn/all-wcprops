@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController
+END
+UIViewController+MMDrawerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/UIViewController+MMDrawerController.h
+END
+MMDrawerBarButtonItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/MMDrawerBarButtonItem.h
+END
+UIViewController+MMDrawerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/UIViewController+MMDrawerController.m
+END
+MMDrawerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/MMDrawerController.h
+END
+MMDrawerBarButtonItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/MMDrawerBarButtonItem.m
+END
+MMDrawerVisualState.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/MMDrawerVisualState.h
+END
+MMDrawerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/MMDrawerController.m
+END
+MMDrawerVisualState.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repo/winetone/!svn/ver/8355/thirdparty/ios_lite_library/ThirdParties/MMDrawerController/MMDrawerVisualState.m
+END

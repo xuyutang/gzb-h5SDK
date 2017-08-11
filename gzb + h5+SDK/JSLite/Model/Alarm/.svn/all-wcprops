@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/winetone/!svn/ver/26303/thirdparty/ios_lite_library/Model/Alarm
+END
+Holiday.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/26303/thirdparty/ios_lite_library/Model/Alarm/Holiday.pb.h
+END
+NSDate+MADateExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/NSDate+MADateExtensions.m
+END
+Alarm.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/Alarm.h
+END
+Alarm+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/17818/thirdparty/ios_lite_library/Model/Alarm/Alarm+Extensions.m
+END
+Holiday.pb.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/26303/thirdparty/ios_lite_library/Model/Alarm/Holiday.pb.m
+END
+Alarm.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/Alarm.m
+END
+CheckIn.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/24273/thirdparty/ios_lite_library/Model/Alarm/CheckIn.pb.h
+END
+MADebugMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/MADebugMacros.h
+END
+CheckIn.pb.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/24273/thirdparty/ios_lite_library/Model/Alarm/CheckIn.pb.m
+END
+Repetition+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/Repetition+Extensions.h
+END
+NSManagedObject+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/NSManagedObject+Extensions.h
+END
+Repetition+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/Repetition+Extensions.m
+END
+Repetition.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/Repetition.h
+END
+NSManagedObject+Extensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/NSManagedObject+Extensions.m
+END
+NSDate+MADateExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/NSDate+MADateExtensions.h
+END
+Alarm+Extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/Alarm+Extensions.h
+END
+Repetition.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/17033/thirdparty/ios_lite_library/Model/Alarm/Repetition.m
+END
