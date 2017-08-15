@@ -57,6 +57,8 @@
 #import "PushOrderMsg.h"
 #import "AttencePageViewController.h"
 #import <UserNotifications/UserNotifications.h>
+#import "PDRCore.h"
+#import "PDRCommonString.h"
 
 @implementation AppDelegate
 @synthesize currentUser;
@@ -93,7 +95,7 @@ void UncaughtExceptionHandler(NSException *exception) {
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions{
-    
+//    return [PDRCore initEngineWihtOptions:launchOptions withRunMode:PDRCoreRunModeWebviewClient];
     //捕获异常
     //NSSetUncaughtExceptionHandler (&UncaughtExceptionHandler);
     

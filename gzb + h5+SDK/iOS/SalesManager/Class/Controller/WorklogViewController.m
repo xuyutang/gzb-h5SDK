@@ -14,6 +14,7 @@
 #import "Constant.h"
 #import "WorklogListViewController.h"
 #import "UIView+CNKit.h"
+#import "MuiViewController.h"
 
 @interface WorklogViewController ()
 
@@ -74,12 +75,20 @@
     appDelegate = APPDELEGATE;
     rightView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 130, 60)];
     
+    
+    UIImageView *MuiImageView = [[UIImageView alloc] initWithFrame:CGRectMake(13, 17, 25, 25)];
+    [MuiImageView setImage:[UIImage imageNamed:@"mui"]];
+    UITapGestureRecognizer *tapGesture3 = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(toMuiView:)];
+    [tapGesture3 setNumberOfTapsRequired:1];
+    MuiImageView.userInteractionEnabled = YES;
+    MuiImageView.contentMode = UIViewContentModeScaleAspectFit;
+    [MuiImageView addGestureRecognizer:tapGesture3];
+    [rightView addSubview:MuiImageView];
+    [MuiImageView release];
+    [tapGesture3 release];
+    
     UIImageView *listImageView = [[UIImageView alloc] initWithFrame:CGRectMake(100, 17, 25, 25)];
     [listImageView setImage:[UIImage imageNamed:@"ab_icon_search"]];
-//    [listImageView setText:[NSString fontAwesomeIconStringForEnum:ICON_LIST]];
-//    [listImageView setFont:[UIFont fontWithName:kFontAwesomeFamilyName size:25]];
-//    [listImageView setTextColor:WT_RED];
-//    [listImageView setTextAlignment:UITextAlignmentCenter];
     UITapGestureRecognizer *tapGesture1 = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(toList:)];
     [tapGesture1 setNumberOfTapsRequired:1];
     listImageView.userInteractionEnabled = YES;
@@ -132,6 +141,14 @@
     }
 
 }
+
+//去往MUI页面
+-(void)toMuiView:(id)sender {
+    MuiViewController *muiVC = [[MuiViewController alloc] init];
+    [self.navigationController pushViewController:muiVC animated:YES];
+
+}
+
 -(void)toList:(id)sender{
     [self dismissKeyBoard:nil];
     WorklogListViewController *ctrl = [[WorklogListViewController alloc] init];
