@@ -49,6 +49,13 @@
 		73577DB21F429CE1009A0FC6 /* Pandora in Resources */ = {isa = PBXBuildFile; fileRef = 73577DB11F429CE1009A0FC6 /* Pandora */; };
 		73577DB41F42C210009A0FC6 /* mui57.png in Resources */ = {isa = PBXBuildFile; fileRef = 73577DB31F42C210009A0FC6 /* mui57.png */; };
 		73577DB61F42C246009A0FC6 /* mui114.png in Resources */ = {isa = PBXBuildFile; fileRef = 73577DB51F42C246009A0FC6 /* mui114.png */; };
+		73577E721F442D08009A0FC6 /* liblibCamera.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73577E711F442D08009A0FC6 /* liblibCamera.a */; };
+		73577E761F44473D009A0FC6 /* liblibNativeUI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73577E751F44473D009A0FC6 /* liblibNativeUI.a */; };
+		73577E7C1F444907009A0FC6 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73577E7B1F444907009A0FC6 /* CoreAudio.framework */; };
+		73577E7E1F44491F009A0FC6 /* CoreAudioKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73577E7D1F44491F009A0FC6 /* CoreAudioKit.framework */; };
+		73577E801F444970009A0FC6 /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 73577E7F1F44496F009A0FC6 /* libstdc++.tbd */; };
+		73577E821F44499B009A0FC6 /* libiconv.2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 73577E811F44499B009A0FC6 /* libiconv.2.tbd */; };
+		73577E841F4449CB009A0FC6 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 73577E831F4449CB009A0FC6 /* libc++.tbd */; };
 		735813AF1D6A878600E3C765 /* DataReportViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735813AE1D6A878600E3C765 /* DataReportViewController.m */; };
 		735813B51D6A9DBC00E3C765 /* PaperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735813B41D6A9DBC00E3C765 /* PaperViewController.m */; };
 		735813E01D6AC6BC00E3C765 /* DataReportMenuBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 735813DF1D6AC6BC00E3C765 /* DataReportMenuBtn.m */; };
@@ -745,6 +752,13 @@
 		73577DB11F429CE1009A0FC6 /* Pandora */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pandora; sourceTree = "<group>"; };
 		73577DB31F42C210009A0FC6 /* mui57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mui57.png; sourceTree = "<group>"; };
 		73577DB51F42C246009A0FC6 /* mui114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mui114.png; sourceTree = "<group>"; };
+		73577E711F442D08009A0FC6 /* liblibCamera.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = liblibCamera.a; sourceTree = "<group>"; };
+		73577E751F44473D009A0FC6 /* liblibNativeUI.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = liblibNativeUI.a; sourceTree = "<group>"; };
+		73577E7B1F444907009A0FC6 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		73577E7D1F44491F009A0FC6 /* CoreAudioKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudioKit.framework; path = System/Library/Frameworks/CoreAudioKit.framework; sourceTree = SDKROOT; };
+		73577E7F1F44496F009A0FC6 /* libstdc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.tbd"; path = "usr/lib/libstdc++.tbd"; sourceTree = SDKROOT; };
+		73577E811F44499B009A0FC6 /* libiconv.2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.2.tbd; path = usr/lib/libiconv.2.tbd; sourceTree = SDKROOT; };
+		73577E831F4449CB009A0FC6 /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
 		735813AD1D6A878600E3C765 /* DataReportViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataReportViewController.h; sourceTree = "<group>"; };
 		735813AE1D6A878600E3C765 /* DataReportViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataReportViewController.m; sourceTree = "<group>"; };
 		735813B31D6A9DBC00E3C765 /* PaperViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaperViewController.h; sourceTree = "<group>"; };
@@ -1713,6 +1727,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73577E841F4449CB009A0FC6 /* libc++.tbd in Frameworks */,
+				73577E821F44499B009A0FC6 /* libiconv.2.tbd in Frameworks */,
+				73577E801F444970009A0FC6 /* libstdc++.tbd in Frameworks */,
+				73577E7E1F44491F009A0FC6 /* CoreAudioKit.framework in Frameworks */,
+				73577E7C1F444907009A0FC6 /* CoreAudio.framework in Frameworks */,
 				73577DAB1F429207009A0FC6 /* libstdc++.6.tbd in Frameworks */,
 				E8F1F8E21BABC97000D1D333 /* libz.tbd in Frameworks */,
 				73577DAA1F428D3E009A0FC6 /* libxml2.tbd in Frameworks */,
@@ -1731,6 +1750,7 @@
 				C3873CE91BEA0A0300445B1C /* SecurityGuardSDK.framework in Frameworks */,
 				C3A655951BE9ACEE0028E26E /* CoreMedia.framework in Frameworks */,
 				E8E6643119B58E2700522F70 /* OpenGLES.framework in Frameworks */,
+				73577E721F442D08009A0FC6 /* liblibCamera.a in Frameworks */,
 				C3A655931BE9ACD10028E26E /* AudioToolbox.framework in Frameworks */,
 				C3873CE41BEA0A0300445B1C /* ALBBFullSecurityGuard.framework in Frameworks */,
 				7D9F244817A789CD000B7FC0 /* QuartzCore.framework in Frameworks */,
@@ -1746,6 +1766,7 @@
 				C3873CE71BEA0A0300445B1C /* ALBBQuPaiPlugin.framework in Frameworks */,
 				73130E9D1EEFCB81004EF084 /* BaiduMapAPI_Search.framework in Frameworks */,
 				E8357A411B33AD9C006E5BDE /* JavaScriptCore.framework in Frameworks */,
+				73577E761F44473D009A0FC6 /* liblibNativeUI.a in Frameworks */,
 				93D3AAAE1B2805120034DC3E /* CoreData.framework in Frameworks */,
 				E8E6643719B58E5200522F70 /* CoreTelephony.framework in Frameworks */,
 				733F24BE1F428B280039B46B /* libcoreSupport.a in Frameworks */,
@@ -2089,6 +2110,13 @@
 		7DC73BEA17A666CC00C3AD19 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				73577E831F4449CB009A0FC6 /* libc++.tbd */,
+				73577E811F44499B009A0FC6 /* libiconv.2.tbd */,
+				73577E7F1F44496F009A0FC6 /* libstdc++.tbd */,
+				73577E7D1F44491F009A0FC6 /* CoreAudioKit.framework */,
+				73577E7B1F444907009A0FC6 /* CoreAudio.framework */,
+				73577E751F44473D009A0FC6 /* liblibNativeUI.a */,
+				73577E711F442D08009A0FC6 /* liblibCamera.a */,
 				73577DA91F428D3E009A0FC6 /* libxml2.tbd */,
 				73577DA51F428D23009A0FC6 /* libstdc++.6.tbd */,
 				733F24C71F428C370039B46B /* CoreFoundation.framework */,
