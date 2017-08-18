@@ -35,12 +35,9 @@ static UIView* pContentVIew = nil;
     
     
     [super loadView];
-    UIView  *view = [[UIView alloc] initWithFrame:CGRectMake(0, 0, MAINWIDTH, 40)];
-    view.backgroundColor = WT_BLUE;
-    [self.view addSubview:view];
     if(pContentVIew == nil)
         
-        pContentVIew = [[UIView alloc] initWithFrame:CGRectMake(0, 0, MAINWIDTH, MAINHEIGHT)];
+        pContentVIew = [[UIView alloc] initWithFrame:CGRectMake(0, 0, MAINWIDTH, MAINHEIGHT + 64)];
     
     [self.view addSubview: pContentVIew];
     
