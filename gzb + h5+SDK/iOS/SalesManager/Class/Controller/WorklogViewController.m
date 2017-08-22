@@ -145,8 +145,8 @@
 //去往MUI页面
 -(void)toMuiView:(id)sender {
     MuiViewController *muiVC = [[MuiViewController alloc] init];
-    [self.navigationController presentViewController:muiVC animated:YES completion:nil];
-   // [self.navigationController pushViewController:muiVC animated:YES];
+    //[self.navigationController presentViewController:muiVC animated:YES completion:nil];
+    [self.navigationController pushViewController:muiVC animated:YES];
 
 }
 

@@ -106,6 +106,9 @@
 		738D63E31E25D8CC0085A003 /* app_logo57_wt.png in Resources */ = {isa = PBXBuildFile; fileRef = 738D63E11E25D8CC0085A003 /* app_logo57_wt.png */; };
 		738D63EB1E276B360085A003 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 738D63EA1E276B360085A003 /* UserNotifications.framework */; };
 		7391ACF61D74180B008D0FD3 /* DataReportTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7391ACF51D74180B008D0FD3 /* DataReportTypeViewController.m */; };
+		739460FF1F4BBD9A00465438 /* PluginTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 739460FE1F4BBD9A00465438 /* PluginTest.m */; };
+		7394610D1F4BC88000465438 /* LocalAuthentication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610C1F4BC87F00465438 /* LocalAuthentication.framework */; };
+		7394610F1F4BC9E600465438 /* liblibPGInvocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610E1F4BC9E600465438 /* liblibPGInvocation.a */; };
 		739D0D541D45F5E70031ACAB /* video_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 739D0D531D45F5E70031ACAB /* video_play.png */; };
 		73A0E0391D6AD1610015CEA9 /* DataReportListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */; };
 		73A0E03A1D6AD1610015CEA9 /* DataReportListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 73A0E0381D6AD1610015CEA9 /* DataReportListViewController.xib */; };
@@ -853,6 +856,10 @@
 		738D63EA1E276B360085A003 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		7391ACF41D74180B008D0FD3 /* DataReportTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataReportTypeViewController.h; sourceTree = "<group>"; };
 		7391ACF51D74180B008D0FD3 /* DataReportTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataReportTypeViewController.m; sourceTree = "<group>"; };
+		739460FD1F4BBD9A00465438 /* PluginTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PluginTest.h; sourceTree = "<group>"; };
+		739460FE1F4BBD9A00465438 /* PluginTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PluginTest.m; sourceTree = "<group>"; };
+		7394610C1F4BC87F00465438 /* LocalAuthentication.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LocalAuthentication.framework; path = System/Library/Frameworks/LocalAuthentication.framework; sourceTree = SDKROOT; };
+		7394610E1F4BC9E600465438 /* liblibPGInvocation.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = liblibPGInvocation.a; sourceTree = "<group>"; };
 		739D0D531D45F5E70031ACAB /* video_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = video_play.png; sourceTree = "<group>"; };
 		73A0E0361D6AD1610015CEA9 /* DataReportListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataReportListViewController.h; sourceTree = "<group>"; };
 		73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataReportListViewController.m; sourceTree = "<group>"; };
@@ -1779,6 +1786,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7394610D1F4BC88000465438 /* LocalAuthentication.framework in Frameworks */,
 				732ACA9C1F4527E9000E9310 /* AddressBook.framework in Frameworks */,
 				732ACA9A1F4527B3000E9310 /* AddressBookUI.framework in Frameworks */,
 				732ACA981F452799000E9310 /* Social.framework in Frameworks */,
@@ -1844,6 +1852,7 @@
 				732ACA9E1F452966000E9310 /* liblibBarcode.a in Frameworks */,
 				E8E6643719B58E5200522F70 /* CoreTelephony.framework in Frameworks */,
 				733F24BE1F428B280039B46B /* libcoreSupport.a in Frameworks */,
+				7394610F1F4BC9E600465438 /* liblibPGInvocation.a in Frameworks */,
 				733F24C01F428B560039B46B /* liblibUI.a in Frameworks */,
 				732ACAB81F452E7E000E9310 /* MAMapKit.framework in Frameworks */,
 				73130E9B1EEFCB81004EF084 /* BaiduMapAPI_Location.framework in Frameworks */,
@@ -2189,6 +2198,8 @@
 		7DC73BEA17A666CC00C3AD19 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				7394610E1F4BC9E600465438 /* liblibPGInvocation.a */,
+				7394610C1F4BC87F00465438 /* LocalAuthentication.framework */,
 				73B3D2B91F45376700DB574F /* libBaiduKeyVerify.a */,
 				73B3D2B71F45374C00DB574F /* libbmapimp.a */,
 				73B3D2B51F4536C700DB574F /* liblibStorage.a */,
@@ -2310,6 +2321,7 @@
 		7DC73C0F17A667B100C3AD19 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				E89B7B3618926A6F003106F6 /* Worklog */,
 				73C542B11DE3F57700B0A790 /* Holiday */,
 				E89E75C319CFF55500789BC5 /* Apply */,
 				E89B7B2818926A1A003106F6 /* Attendance */,
@@ -2334,7 +2346,6 @@
 				E89B7B3518926A68003106F6 /* Stock */,
 				E89B7B3718926A77003106F6 /* Task */,
 				E829297F1B156489009B1B65 /* Track */,
-				E89B7B3618926A6F003106F6 /* Worklog */,
 				C3A655371BE87ADC0028E26E /* Video */,
 			);
 			path = Controller;
@@ -3413,6 +3424,8 @@
 				7D5EB58F17AF443900801395 /* WorklogViewController.m */,
 				73577DAE1F429926009A0FC6 /* MuiViewController.h */,
 				73577DAF1F429926009A0FC6 /* MuiViewController.m */,
+				739460FD1F4BBD9A00465438 /* PluginTest.h */,
+				739460FE1F4BBD9A00465438 /* PluginTest.m */,
 			);
 			name = Worklog;
 			sourceTree = "<group>";
@@ -4000,6 +4013,7 @@
 				E8315B451B1C50EB00CB5F86 /* CustomerDetailViewController.m in Sources */,
 				7DC35F1F17A9FFBC001F4032 /* LoginViewController.m in Sources */,
 				73DD21521EC007DA0017BE89 /* AddMessageViewController.m in Sources */,
+				739460FF1F4BBD9A00465438 /* PluginTest.m in Sources */,
 				7DC35F2417AA037F001F4032 /* InputCell.m in Sources */,
 				73C542CB1DE3F5B400B0A790 /* LeaveTypeViewController.m in Sources */,
 				7DC35F2717AA1309001F4032 /* DataSyncViewController.m in Sources */,
