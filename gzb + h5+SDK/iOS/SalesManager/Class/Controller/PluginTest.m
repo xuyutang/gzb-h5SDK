@@ -207,4 +207,18 @@
     return [self resultWithJSON: pResultDic];
 }
 
+#pragma mark t同步方法 
+- (NSData*)myTextAction:(PGMethod*)command {
+    // 根据传入获取参数
+    NSString* pArgument1 = [command.arguments objectAtIndex:0];
+    NSString* pArgument2 = [command.arguments objectAtIndex:1];
+    
+    // 拼接成字符串
+    NSString* pResultString = [NSString stringWithFormat:@"%@ %@", pArgument1, pArgument2];
+    
+    // 按照字符串方式返回结果
+    return [self resultWithString: pResultString];
+
+
+}
 @end
