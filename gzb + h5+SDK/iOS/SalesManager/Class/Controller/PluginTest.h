@@ -9,6 +9,7 @@
 #include "PGPlugin.h"
 #include "PGMethod.h"
 #import <Foundation/Foundation.h>
+#import "PushViewController.h"
 
 
 

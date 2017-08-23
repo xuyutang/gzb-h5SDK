@@ -109,6 +109,7 @@
 		739460FF1F4BBD9A00465438 /* PluginTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 739460FE1F4BBD9A00465438 /* PluginTest.m */; };
 		7394610D1F4BC88000465438 /* LocalAuthentication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610C1F4BC87F00465438 /* LocalAuthentication.framework */; };
 		7394610F1F4BC9E600465438 /* liblibPGInvocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610E1F4BC9E600465438 /* liblibPGInvocation.a */; };
+		739461121F4D2EDC00465438 /* PushViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739461111F4D2EDC00465438 /* PushViewController.m */; };
 		739D0D541D45F5E70031ACAB /* video_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 739D0D531D45F5E70031ACAB /* video_play.png */; };
 		73A0E0391D6AD1610015CEA9 /* DataReportListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */; };
 		73A0E03A1D6AD1610015CEA9 /* DataReportListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 73A0E0381D6AD1610015CEA9 /* DataReportListViewController.xib */; };
@@ -860,6 +861,8 @@
 		739460FE1F4BBD9A00465438 /* PluginTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PluginTest.m; sourceTree = "<group>"; };
 		7394610C1F4BC87F00465438 /* LocalAuthentication.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LocalAuthentication.framework; path = System/Library/Frameworks/LocalAuthentication.framework; sourceTree = SDKROOT; };
 		7394610E1F4BC9E600465438 /* liblibPGInvocation.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = liblibPGInvocation.a; sourceTree = "<group>"; };
+		739461101F4D2EDC00465438 /* PushViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PushViewController.h; sourceTree = "<group>"; };
+		739461111F4D2EDC00465438 /* PushViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PushViewController.m; sourceTree = "<group>"; };
 		739D0D531D45F5E70031ACAB /* video_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = video_play.png; sourceTree = "<group>"; };
 		73A0E0361D6AD1610015CEA9 /* DataReportListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataReportListViewController.h; sourceTree = "<group>"; };
 		73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataReportListViewController.m; sourceTree = "<group>"; };
@@ -3426,6 +3429,8 @@
 				73577DAF1F429926009A0FC6 /* MuiViewController.m */,
 				739460FD1F4BBD9A00465438 /* PluginTest.h */,
 				739460FE1F4BBD9A00465438 /* PluginTest.m */,
+				739461101F4D2EDC00465438 /* PushViewController.h */,
+				739461111F4D2EDC00465438 /* PushViewController.m */,
 			);
 			name = Worklog;
 			sourceTree = "<group>";
@@ -4071,6 +4076,7 @@
 				E843F0EF1B13FD1D001C1683 /* ViewControllerFactory.m in Sources */,
 				C32C124C1C112D1300F347C9 /* PlaceTextView.m in Sources */,
 				7D79E55417B1E15B00EBEFC5 /* OrderProductCell.m in Sources */,
+				739461121F4D2EDC00465438 /* PushViewController.m in Sources */,
 				7D79E55B17B201EB00EBEFC5 /* OrderListViewController.m in Sources */,
 				93C18BFA1AF70E1F009914E8 /* SelectedTagCell.m in Sources */,
 				7D79E56117B2175D00EBEFC5 /* OrderCell.m in Sources */,

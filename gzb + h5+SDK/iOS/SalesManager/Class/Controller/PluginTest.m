@@ -207,9 +207,10 @@
     return [self resultWithJSON: pResultDic];
 }
 
-#pragma mark t同步方法 
+#pragma mark 调用原生方法
 - (NSData*)myTextAction:(PGMethod*)command {
     // 根据传入获取参数
+    [[NSNotificationCenter defaultCenter] postNotificationName:@"pushAction" object:nil];
     NSString* pArgument1 = [command.arguments objectAtIndex:0];
     NSString* pArgument2 = [command.arguments objectAtIndex:1];
     

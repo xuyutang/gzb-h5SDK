@@ -10,6 +10,7 @@
 #import "PDRToolSystem.h"
 #import "PDRToolSystemEx.h"
 #import "PDRCoreAppManager.h"
+#import "PushViewController.h"
 
 #define kStatusBarHeight 20.f
 
@@ -28,6 +29,7 @@ static UIView* pContentVIew = nil;
 
 
 - (void)viewDidLoad {
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(puchAction) name:@"pushAction" object:nil];
     [lblFunctionName setText:@"MUI页面"];
     [PDRCore initEngineWihtOptions:nil withRunMode:PDRCoreRunModeWebviewClient];
     
@@ -58,6 +60,12 @@ static UIView* pContentVIew = nil;
         }
         
     }
+}
+
+-(void)puchAction {
+    PushViewController *pushVC = [[PushViewController alloc] init];
+    [self.navigationController pushViewController:pushVC animated:YES];
+
 }
 
 - (void)dealloc
