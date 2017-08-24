@@ -30,6 +30,9 @@ static UIView* pContentVIew = nil;
 
 - (void)viewDidLoad {
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(puchAction) name:@"pushAction" object:nil];
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(SendDataToNative) name:@"SendDataToNative" object:nil];
+    
     [lblFunctionName setText:@"MUI页面"];
     [PDRCore initEngineWihtOptions:nil withRunMode:PDRCoreRunModeWebviewClient];
     
@@ -62,6 +65,11 @@ static UIView* pContentVIew = nil;
     }
 }
 
+-(void)SendDataToNative {
+    UIAlertView *alter = [[UIAlertView alloc] initWithTitle:@"通知" message:@"原生层收到消息" delegate:self cancelButtonTitle:@"取消" otherButtonTitles: nil];
+    [alter show];
+
+}
 -(void)puchAction {
     PushViewController *pushVC = [[PushViewController alloc] init];
     [self.navigationController pushViewController:pushVC animated:YES];
