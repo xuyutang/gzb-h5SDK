@@ -90,7 +90,7 @@
     if (pCoreHandle != nil)
     {
         
-        NSString* pFilePath = [NSString stringWithFormat:@"file://%@/%@", [NSBundle mainBundle].bundlePath, @"Pandora/apps/HelloH5/www/plugin.html"];
+        NSString* pFilePath = [NSString stringWithFormat:@"file://%@/%@", [NSBundle mainBundle].bundlePath, @"Pandora/apps/HelloH5/www/web_native.html"];
         [pCoreHandle start];
         // 如果路径中包含中文，或Xcode工程的targets名为中文则需要对路径进行编码
         //NSString* pFilePath =  (NSString *)CFURLCreateStringByAddingPercentEscapes( kCFAllocatorDefault, (CFStringRef)pTempString, NULL, NULL,  kCFStringEncodingUTF8 );
@@ -102,7 +102,7 @@
         // 用户在集成5+SDK时，需要在5+内核初始化时设置当前的集成方式，
         // 请参考AppDelegate.m文件的- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions方法
         
-        CGRect StRect = CGRectMake(0, 45, self.view.frame.size.width, self.view.frame.size.height);
+        CGRect StRect = CGRectMake(0, 45, MAINWIDTH, MAINHEIGHT - 45);
         
         appFrame = [[PDRCoreAppFrame alloc] initWithName:@"WebViewID1" loadURL:pFilePath frame:StRect];
         if (appFrame) {
