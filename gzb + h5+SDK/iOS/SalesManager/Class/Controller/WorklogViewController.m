@@ -13,6 +13,7 @@
 #import "MessageBarManager.h"
 #import "Constant.h"
 #import "WorklogListViewController.h"
+#import "WorklogListMuiViewController.h"
 #import "UIView+CNKit.h"
 #import "MuiViewController.h"
 
@@ -152,7 +153,7 @@
 
 -(void)toList:(id)sender{
     [self dismissKeyBoard:nil];
-    WorklogListViewController *ctrl = [[WorklogListViewController alloc] init];
+    WorklogListMuiViewController *ctrl = [[WorklogListMuiViewController alloc] init];
     //UINavigationController *worklogNavCtrl = [[UINavigationController alloc] initWithRootViewController:ctrl];
     [self.navigationController pushViewController:ctrl animated:YES];
 }

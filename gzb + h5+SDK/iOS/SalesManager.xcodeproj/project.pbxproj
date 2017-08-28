@@ -110,6 +110,7 @@
 		7394610D1F4BC88000465438 /* LocalAuthentication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610C1F4BC87F00465438 /* LocalAuthentication.framework */; };
 		7394610F1F4BC9E600465438 /* liblibPGInvocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610E1F4BC9E600465438 /* liblibPGInvocation.a */; };
 		739461121F4D2EDC00465438 /* PushViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739461111F4D2EDC00465438 /* PushViewController.m */; };
+		739461161F53F4E900465438 /* WorklogListMuiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739461151F53F4E900465438 /* WorklogListMuiViewController.m */; };
 		739D0D541D45F5E70031ACAB /* video_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 739D0D531D45F5E70031ACAB /* video_play.png */; };
 		73A0E0391D6AD1610015CEA9 /* DataReportListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */; };
 		73A0E03A1D6AD1610015CEA9 /* DataReportListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 73A0E0381D6AD1610015CEA9 /* DataReportListViewController.xib */; };
@@ -863,6 +864,8 @@
 		7394610E1F4BC9E600465438 /* liblibPGInvocation.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = liblibPGInvocation.a; sourceTree = "<group>"; };
 		739461101F4D2EDC00465438 /* PushViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PushViewController.h; sourceTree = "<group>"; };
 		739461111F4D2EDC00465438 /* PushViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PushViewController.m; sourceTree = "<group>"; };
+		739461141F53F4E800465438 /* WorklogListMuiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorklogListMuiViewController.h; sourceTree = "<group>"; };
+		739461151F53F4E900465438 /* WorklogListMuiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorklogListMuiViewController.m; sourceTree = "<group>"; };
 		739D0D531D45F5E70031ACAB /* video_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = video_play.png; sourceTree = "<group>"; };
 		73A0E0361D6AD1610015CEA9 /* DataReportListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataReportListViewController.h; sourceTree = "<group>"; };
 		73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataReportListViewController.m; sourceTree = "<group>"; };
@@ -3431,6 +3434,8 @@
 				739460FE1F4BBD9A00465438 /* PluginTest.m */,
 				739461101F4D2EDC00465438 /* PushViewController.h */,
 				739461111F4D2EDC00465438 /* PushViewController.m */,
+				739461141F53F4E800465438 /* WorklogListMuiViewController.h */,
+				739461151F53F4E900465438 /* WorklogListMuiViewController.m */,
 			);
 			name = Worklog;
 			sourceTree = "<group>";
@@ -4109,6 +4114,7 @@
 				C330413E1BF17F8900FD4BD8 /* VideoListViewController.m in Sources */,
 				933F9CDA1B18069600FA9D53 /* PatrolDetailReplyCell.m in Sources */,
 				C35FD4A31C61C8A400C16BD0 /* PDColelctionCell.m in Sources */,
+				739461161F53F4E900465438 /* WorklogListMuiViewController.m in Sources */,
 				73E733921F0E19E8001E8AD0 /* NSMutableDictionary+SafeKit.m in Sources */,
 				7359DC751D755A0200727CCE /* PaperPostOption.m in Sources */,
 				7D6F544417B332B5009B503C /* MyFavorateViewController.m in Sources */,

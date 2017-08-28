@@ -215,7 +215,7 @@
     NSString* pArgument2 = [command.arguments objectAtIndex:1];
     
     // 拼接成字符串
-    NSString* pResultString = [NSString stringWithFormat:@"%@ %@", pArgument1, pArgument2];
+    NSString* pResultString = [NSString stringWithFormat:@"%@21221 %@", pArgument1, pArgument2];
     
     // 按照字符串方式返回结果
     return [self resultWithString: pResultString];

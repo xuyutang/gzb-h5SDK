@@ -19,7 +19,7 @@
     [lblFunctionName setText:@"触发的原生页面"];
 
     UIWebView *myWebView = [[UIWebView alloc] initWithFrame:CGRectMake(0, 0, MAINWIDTH, MAINHEIGHT)];
-    NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"http://toutiao.com"]];
+    NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:@"http://baidu.com"]];
     [myWebView loadRequest:request];
     
     [self.view addSubview:myWebView];
