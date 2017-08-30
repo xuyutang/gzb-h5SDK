@@ -161,10 +161,11 @@
     UIButton* btn = _searchBar.buttons[0];
     [btn setTitle:departments.count > 0 ?[sb substringToIndex:sb.length - 1] : _searchBar.titles[0] forState:UIControlStateNormal];
     
-    NSString *evalString = [NSString stringWithFormat:@"alerst('%@')",sb];
+    //NSString *evalString = [NSString stringWithFormat:@"alerst('%@')",sb];
+
     [appFrame dispatchDocumentEvent:@"tttt"];
-    [appFrame stringByEvaluatingJavaScriptFromString:evalString];
-    
+    [appFrame stringByEvaluatingJavaScriptFromString:sb];
+
     //[self refreshParamsAndTable];
 }
 
