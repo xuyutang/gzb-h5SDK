@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 DCloud. All rights reserved.
 //
 
-#import "PluginTest.h"
+#import "PGPluginTest.h"
 #import "PDRCoreAppFrame.h"
 #import "H5WEEngineExport.h"
 #import "PDRToolSystemEx.h"

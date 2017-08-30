@@ -106,7 +106,7 @@
 		738D63E31E25D8CC0085A003 /* app_logo57_wt.png in Resources */ = {isa = PBXBuildFile; fileRef = 738D63E11E25D8CC0085A003 /* app_logo57_wt.png */; };
 		738D63EB1E276B360085A003 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 738D63EA1E276B360085A003 /* UserNotifications.framework */; };
 		7391ACF61D74180B008D0FD3 /* DataReportTypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7391ACF51D74180B008D0FD3 /* DataReportTypeViewController.m */; };
-		739460FF1F4BBD9A00465438 /* PluginTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 739460FE1F4BBD9A00465438 /* PluginTest.m */; };
+		739460FF1F4BBD9A00465438 /* PGPluginTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 739460FE1F4BBD9A00465438 /* PGPluginTest.m */; };
 		7394610D1F4BC88000465438 /* LocalAuthentication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610C1F4BC87F00465438 /* LocalAuthentication.framework */; };
 		7394610F1F4BC9E600465438 /* liblibPGInvocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610E1F4BC9E600465438 /* liblibPGInvocation.a */; };
 		739461121F4D2EDC00465438 /* PushViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739461111F4D2EDC00465438 /* PushViewController.m */; };
@@ -858,8 +858,8 @@
 		738D63EA1E276B360085A003 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		7391ACF41D74180B008D0FD3 /* DataReportTypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataReportTypeViewController.h; sourceTree = "<group>"; };
 		7391ACF51D74180B008D0FD3 /* DataReportTypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataReportTypeViewController.m; sourceTree = "<group>"; };
-		739460FD1F4BBD9A00465438 /* PluginTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PluginTest.h; sourceTree = "<group>"; };
-		739460FE1F4BBD9A00465438 /* PluginTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PluginTest.m; sourceTree = "<group>"; };
+		739460FD1F4BBD9A00465438 /* PGPluginTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGPluginTest.h; sourceTree = "<group>"; };
+		739460FE1F4BBD9A00465438 /* PGPluginTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGPluginTest.m; sourceTree = "<group>"; };
 		7394610C1F4BC87F00465438 /* LocalAuthentication.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LocalAuthentication.framework; path = System/Library/Frameworks/LocalAuthentication.framework; sourceTree = SDKROOT; };
 		7394610E1F4BC9E600465438 /* liblibPGInvocation.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = liblibPGInvocation.a; sourceTree = "<group>"; };
 		739461101F4D2EDC00465438 /* PushViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PushViewController.h; sourceTree = "<group>"; };
@@ -3430,8 +3430,8 @@
 				7D5EB58F17AF443900801395 /* WorklogViewController.m */,
 				73577DAE1F429926009A0FC6 /* MuiViewController.h */,
 				73577DAF1F429926009A0FC6 /* MuiViewController.m */,
-				739460FD1F4BBD9A00465438 /* PluginTest.h */,
-				739460FE1F4BBD9A00465438 /* PluginTest.m */,
+				739460FD1F4BBD9A00465438 /* PGPluginTest.h */,
+				739460FE1F4BBD9A00465438 /* PGPluginTest.m */,
 				739461101F4D2EDC00465438 /* PushViewController.h */,
 				739461111F4D2EDC00465438 /* PushViewController.m */,
 				739461141F53F4E800465438 /* WorklogListMuiViewController.h */,
@@ -4023,7 +4023,7 @@
 				E8315B451B1C50EB00CB5F86 /* CustomerDetailViewController.m in Sources */,
 				7DC35F1F17A9FFBC001F4032 /* LoginViewController.m in Sources */,
 				73DD21521EC007DA0017BE89 /* AddMessageViewController.m in Sources */,
-				739460FF1F4BBD9A00465438 /* PluginTest.m in Sources */,
+				739460FF1F4BBD9A00465438 /* PGPluginTest.m in Sources */,
 				7DC35F2417AA037F001F4032 /* InputCell.m in Sources */,
 				73C542CB1DE3F5B400B0A790 /* LeaveTypeViewController.m in Sources */,
 				7DC35F2717AA1309001F4032 /* DataSyncViewController.m in Sources */,
