@@ -39,7 +39,7 @@
       <img class="mui-pull-left" src="images/myIcon.png">
       <div class="mui-media-body">
            徐雨塘
-        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p id="mytest"  class='mui-ellipsis'>这是工作日志的内容</p>
         <p>2017-08-27 14:05:52</p>
       </div>
     </a>
@@ -73,6 +73,19 @@
 	    plus.plugintest.PluginTestFunction("Html5","Plus","AsyncFunction","MultiArgument!", function( result ) {alert( result[0]  + "_" + result[1]  + "_" + result[2]  + "_" + result[3] );},function(result){alert(result)});
         }
 </script>
+
+<script type="text/javascript">
+mui.init();
+mui.plusReady(function(){
+    document.addEventListener('tttt',function(){
+        mui.toast('app 在后端运行');
+   var a = document.getElementById('mytest')
+    a.innerText = '选择了部门';
+        
+    },false)
+});
+</script>
+
 	</body>
 
 </html>

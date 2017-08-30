@@ -49,6 +49,11 @@
     NSLog(@"APPDelegate applicationWillEnterForeground 事件触发时触发");
 }
 
+
+-(void)myMethodWithString {
+
+
+}
 #pragma mark 以下为插件方法，由JS触发， WebView集成和WebApp集成都可以触发
 
 

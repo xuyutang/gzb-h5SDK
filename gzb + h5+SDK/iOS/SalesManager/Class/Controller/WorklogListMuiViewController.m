@@ -135,6 +135,9 @@
     _endTime = endTime;
     [UIView removeViewFormSubViews:-1 views:_searchViews];
     [_searchBar setColor:1];
+    [appFrame evaluateJavaScript:@"saSasa" completionHandler:^(id obj, NSError *error) {
+        
+    }];
     //4[self refreshParamsAndTable];
 }
 
@@ -158,8 +161,46 @@
     UIButton* btn = _searchBar.buttons[0];
     [btn setTitle:departments.count > 0 ?[sb substringToIndex:sb.length - 1] : _searchBar.titles[0] forState:UIControlStateNormal];
     
+    NSString *evalString = [NSString stringWithFormat:@"alerst('%@')",sb];
+    [appFrame dispatchDocumentEvent:@"tttt"];
+    [appFrame stringByEvaluatingJavaScriptFromString:evalString];
+    
     //[self refreshParamsAndTable];
 }
+
+
+-(void)fireEvent:(NSString*)event args:(id)args{
+    NSString *evalString = nil;
+    NSError  *error      = nil;
+    NSString *argsString = nil;
+    
+    if (args) {
+        if ([args isKindOfClass:[NSString class]]) {
+            argsString = args;
+        }else{
+            NSData   *jsonData   = [NSJSONSerialization dataWithJSONObject:args options:0 error:&error];
+            argsString = [[NSString alloc]initWithData:jsonData encoding:NSUTF8StringEncoding];
+            if (error) {
+                NSLog(@"%@",error);
+            }
+        }
+        evalString = [NSString stringWithFormat:@"\
+                      var jpushEvent = document.createEvent('HTMLEvents');\
+                      jpushEvent.initEvent('%@', true, true);\
+                      jpushEvent.eventType = 'message';\
+                      jpushEvent.arguments = '%@';\
+                      document.dispatchEvent(jpushEvent);",event,argsString];
+    }else{
+        evalString = [NSString stringWithFormat:@"\
+                      var jpushEvent = document.createEvent('HTMLEvents');\
+                      jpushEvent.initEvent('%@', true, true);\
+                      jpushEvent.eventType = 'message';\
+                      document.dispatchEvent(jpushEvent);",event];
+    }
+    //调用上述方法
+    [appFrame stringByEvaluatingJavaScriptFromString:evalString];
+}
+
 
 -(void)clickLeftButton:(id)sender {
     [self.navigationController popViewControllerAnimated:YES];

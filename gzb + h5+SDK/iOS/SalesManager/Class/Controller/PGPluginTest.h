@@ -25,4 +25,7 @@
 
 - (NSData*)myTextAction:(PGMethod*)command;
 
+-(void)myMethodWithString;
+      
+
 @end
