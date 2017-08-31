@@ -65,9 +65,49 @@
     </a>
   </li>
   
+   <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
+   <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
+   <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
+   <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
 </ul>
-<button type="button" onclick="pluginShow()" class="mui-btn mui-btn-primary">我的按钮</button>
-
+<!--<button type="button" onclick="pluginShow()" class="mui-btn mui-btn-primary">我的按钮</button>
+-->
 <script>
 	 function pluginShow() {
 	    plus.plugintest.PluginTestFunction("Html5","Plus","AsyncFunction","MultiArgument!", function( result ) {alert( result[0]  + "_" + result[1]  + "_" + result[2]  + "_" + result[3] );},function(result){alert(result)});
@@ -85,7 +125,23 @@ mui.plusReady(function(){
     },false)
 });
 </script>
-
+<!--
+	作者：1621246682@qq.com
+	时间：2017-08-31
+	描述：监听原生的方法和接收参数
+-->
+<script>
+	document.addEventListener("eventName", onEventFunc, false);
+function onEventFunc(args){
+	var a = document.getElementById('mytest')
+    a.innerText = args.arguments;
+//  var obj = JSON.parese(args);
+//   alert(obj);
+//  window.setTimeout(function(){
+//      alert(obj);
+//  },0);
+}
+</script>
 	</body>
 
 </html>

@@ -161,15 +161,15 @@
     UIButton* btn = _searchBar.buttons[0];
     [btn setTitle:departments.count > 0 ?[sb substringToIndex:sb.length - 1] : _searchBar.titles[0] forState:UIControlStateNormal];
     
-    //NSString *evalString = [NSString stringWithFormat:@"alerst('%@')",sb];
+    //NSString *evalString = [NSString stringWithFormat:@"alert('%@')",sb];
 
-    [appFrame dispatchDocumentEvent:@"tttt"];
-    [appFrame stringByEvaluatingJavaScriptFromString:sb];
-
+   // [appFrame dispatchDocumentEvent:@"tttt"];
+   // [appFrame stringByEvaluatingJavaScriptFromString:evalString];
+    [self fireEvent:@"eventName" args:sb];
     //[self refreshParamsAndTable];
 }
 
-
+#pragma mark 封装的事件 + 参数的方法
 -(void)fireEvent:(NSString*)event args:(id)args{
     NSString *evalString = nil;
     NSError  *error      = nil;
