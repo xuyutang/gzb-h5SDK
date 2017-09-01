@@ -40,8 +40,8 @@
     NSString*               _endTime;
     
     PDRCoreAppFrame* appFrame;
-
-
+    
+    
 }
 
 - (void)viewDidLoad {
@@ -80,7 +80,7 @@
     nameFilterVC.delegate = self;
     [_searchViews addObject:nameFilterVC];
     [lblFunctionName setText:TITLENAME_LIST(FUNC_WORKLOG_DES)];
-
+    
     //MUI部分
     
     [PDRCore initEngineWihtOptions:nil withRunMode:PDRCoreRunModeWebviewClient];
@@ -112,7 +112,7 @@
         }
         
     }
-
+    
     // Do any additional setup after loading the view.
 }
 
@@ -162,14 +162,14 @@
     [btn setTitle:departments.count > 0 ?[sb substringToIndex:sb.length - 1] : _searchBar.titles[0] forState:UIControlStateNormal];
     
     //NSString *evalString = [NSString stringWithFormat:@"alert('%@')",sb];
-
-   // [appFrame dispatchDocumentEvent:@"tttt"];
-   // [appFrame stringByEvaluatingJavaScriptFromString:evalString];
+    
+    // [appFrame dispatchDocumentEvent:@"tttt"];
+    // [appFrame stringByEvaluatingJavaScriptFromString:evalString];
     [self fireEvent:@"eventName" args:sb];
     //[self refreshParamsAndTable];
 }
 
-#pragma mark 封装的事件 + 参数的方法
+#pragma mark 传递事件 参数
 -(void)fireEvent:(NSString*)event args:(id)args{
     NSString *evalString = nil;
     NSError  *error      = nil;
@@ -213,13 +213,13 @@
 }
 
 /*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
+ #pragma mark - Navigation
+ 
+ // In a storyboard-based application, you will often want to do a little preparation before navigation
+ - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+ // Get the new view controller using [segue destinationViewController].
+ // Pass the selected object to the new view controller.
+ }
+ */
 
 @end
