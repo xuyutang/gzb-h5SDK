@@ -68,16 +68,6 @@
       </div>
     </a>
   </li>
-  <li class="mui-table-view-cell mui-media">
-     <a href="javascript:;"> 
-      <img class="mui-pull-left" src="images/myIcon.png">
-      <div class="mui-media-body">
-           徐雨塘
-        <p class='mui-ellipsis'>这是工作日志的内容</p>
-        <p>2017-08-27 14:05:52</p>
-      </div>
-    </a>
-  </li>
   
   <li class="mui-table-view-cell mui-media">
      <a href="javascript:;"> 
@@ -89,7 +79,6 @@
       </div>
     </a>
   </li>
-  
   <li class="mui-table-view-cell mui-media">
      <a href="javascript:;"> 
       <img class="mui-pull-left" src="images/myIcon.png">
@@ -100,21 +89,64 @@
       </div>
     </a>
   </li>
-  
-   
+  <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
+  <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
+  <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
+  <li class="mui-table-view-cell mui-media">
+     <a href="javascript:;"> 
+      <img class="mui-pull-left" src="images/myIcon.png">
+      <div class="mui-media-body">
+           徐雨塘
+        <p class='mui-ellipsis'>这是工作日志的内容</p>
+        <p>2017-08-27 14:05:52</p>
+      </div>
+    </a>
+  </li>
 </ul>
+
 <!--<button type="button" onclick="pluginShow()" class="mui-btn mui-btn-primary">我的按钮</button>
 -->
-<!--去往列表详情 worklogdetail-->
-<!--<script>
+<!--去往列表详情-->
+<script>
 	mui(".mui-table-view").on('tap','.mui-table-view-cell',function(){
-     mui.openWindow({
-     	 url:'worklogdetail.html'
-   
-  }); 
+		var notiClass = plus.ios.importClass("NSNotificationCenter"); 
+      notiClass.defaultCenter().postNotificationNameobject("pushAction",null);
+//   mui.openWindow({
+//   	
+//  // url:'worklogdetail.html',
+//   
+//    
+//}); 
 }) 
 
-</script>-->
+</script>
 <script>
 	 function pluginShow() {
 	    plus.plugintest.PluginTestFunction("Html5","Plus","AsyncFunction","MultiArgument!", function( result ) {alert( result[0]  + "_" + result[1]  + "_" + result[2]  + "_" + result[3] );},function(result){alert(result)});

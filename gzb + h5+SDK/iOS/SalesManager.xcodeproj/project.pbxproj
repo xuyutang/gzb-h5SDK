@@ -111,6 +111,7 @@
 		7394610F1F4BC9E600465438 /* liblibPGInvocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7394610E1F4BC9E600465438 /* liblibPGInvocation.a */; };
 		739461121F4D2EDC00465438 /* PushViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739461111F4D2EDC00465438 /* PushViewController.m */; };
 		739461161F53F4E900465438 /* WorklogListMuiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739461151F53F4E900465438 /* WorklogListMuiViewController.m */; };
+		739461211F59371500465438 /* WorklogdetailMuiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 739461201F59371400465438 /* WorklogdetailMuiViewController.m */; };
 		739D0D541D45F5E70031ACAB /* video_play.png in Resources */ = {isa = PBXBuildFile; fileRef = 739D0D531D45F5E70031ACAB /* video_play.png */; };
 		73A0E0391D6AD1610015CEA9 /* DataReportListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */; };
 		73A0E03A1D6AD1610015CEA9 /* DataReportListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 73A0E0381D6AD1610015CEA9 /* DataReportListViewController.xib */; };
@@ -866,6 +867,8 @@
 		739461111F4D2EDC00465438 /* PushViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PushViewController.m; sourceTree = "<group>"; };
 		739461141F53F4E800465438 /* WorklogListMuiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorklogListMuiViewController.h; sourceTree = "<group>"; };
 		739461151F53F4E900465438 /* WorklogListMuiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorklogListMuiViewController.m; sourceTree = "<group>"; };
+		7394611F1F59371400465438 /* WorklogdetailMuiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WorklogdetailMuiViewController.h; sourceTree = "<group>"; };
+		739461201F59371400465438 /* WorklogdetailMuiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WorklogdetailMuiViewController.m; sourceTree = "<group>"; };
 		739D0D531D45F5E70031ACAB /* video_play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = video_play.png; sourceTree = "<group>"; };
 		73A0E0361D6AD1610015CEA9 /* DataReportListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataReportListViewController.h; sourceTree = "<group>"; };
 		73A0E0371D6AD1610015CEA9 /* DataReportListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataReportListViewController.m; sourceTree = "<group>"; };
@@ -3436,6 +3439,8 @@
 				739461111F4D2EDC00465438 /* PushViewController.m */,
 				739461141F53F4E800465438 /* WorklogListMuiViewController.h */,
 				739461151F53F4E900465438 /* WorklogListMuiViewController.m */,
+				7394611F1F59371400465438 /* WorklogdetailMuiViewController.h */,
+				739461201F59371400465438 /* WorklogdetailMuiViewController.m */,
 			);
 			name = Worklog;
 			sourceTree = "<group>";
@@ -4221,6 +4226,7 @@
 				C3D161DB1CA2423100AB53C4 /* BabyBluetooth.m in Sources */,
 				C32342001CAB78EC00A408D9 /* FavCustomerCell.m in Sources */,
 				C3873CFE1BEB4B9900445B1C /* UploadListViewController.m in Sources */,
+				739461211F59371500465438 /* WorklogdetailMuiViewController.m in Sources */,
 				E8BB8E7918FE4F56007648A9 /* ResearchViewController.m in Sources */,
 				C34CF8E71BF2E3A8001E7007 /* PlayVideoCell.m in Sources */,
 				93A09D1E1B1EE90100F6A64A /* HeaderSearchNearView.m in Sources */,

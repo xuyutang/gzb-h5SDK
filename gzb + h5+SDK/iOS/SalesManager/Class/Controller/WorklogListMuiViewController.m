@@ -24,6 +24,7 @@
 #import "PDRToolSystem.h"
 #import "PDRToolSystemEx.h"
 #import "PDRCoreAppManager.h"
+#import "WorklogdetailMuiViewController.h"
 
 
 @interface WorklogListMuiViewController ()<UITableViewDelegate,InputFinishDelegate,HeaderSearchBarDelegate,NameFilterViewControllerDelegate,DepartmentViewControllerDelegate>
@@ -46,6 +47,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(toDetail) name:@"pushAction" object:nil];
+    
+    
     leftImageView.image = [UIImage imageNamed:@"ab_icon_back"];
     //搜索条载入
     _searchBar = [[HeaderSearchBar alloc] initWithFrame:CGRectMake(0,0, MAINWIDTH, 45)];
@@ -127,6 +132,11 @@
     }
     
 }
+-(void)toDetail {
+    WorklogdetailMuiViewController *muidetailVC  = [[WorklogdetailMuiViewController alloc] init];
+    [self.navigationController pushViewController:muidetailVC animated:YES];
+
+}
 #pragma -mark NameFilterViewController delegate
 -(void)NameFilterViewControllerSearch:(NSString *)name formTime:(NSString *)formTime endTime:(NSString *)endTime{
     NSLog(@"筛选名称：%@",name);
@@ -135,9 +145,7 @@
     _endTime = endTime;
     [UIView removeViewFormSubViews:-1 views:_searchViews];
     [_searchBar setColor:1];
-    [appFrame evaluateJavaScript:@"saSasa" completionHandler:^(id obj, NSError *error) {
-        
-    }];
+    
     //4[self refreshParamsAndTable];
 }
 
